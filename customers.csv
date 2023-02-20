@@ -1,0 +1,2002 @@
+customer_unique_id,country,gender,propriétaire,habitat,nb_pages_visited,date_birth,sms_defined
+1,France,,Locataire,Locataire,4,1962-11-12 11:47:46.632931,yes
+2,China,Female,Propriétaire,Propriétaire,8,1994-06-09 11:47:46.632931,no
+3,China,Female,Locataire,Locataire,5,,no
+4,Belgium,Female,Locataire,Locataire,6,1989-04-28 11:47:46.632931,yes
+5,China,,Propriétaire,Locataire,6,1967-06-24 11:47:46.632931,no
+6,USA,Female,Locataire,Locataire,6,1956-02-19 11:47:46.632931,yes
+7,USA,Male,Locataire,Locataire,3,,no
+8,China,Male,Locataire,Locataire,7,1960-06-05 11:47:46.632931,yes
+9,China,Female,Locataire,Locataire,7,1992-07-21 11:47:46.632931,yes
+10,USA,,Locataire,Locataire,7,1991-07-22 11:47:46.632931,no
+11,China,Male,Locataire,Locataire,1,,no
+12,China,Female,Locataire,Locataire,3,1983-07-09 11:47:46.632931,no
+13,USA,Female,Locataire,Propriétaire,5,1982-05-03 11:47:46.632931,yes
+14,China,Female,Locataire,Locataire,12,1998-09-04 11:47:46.632931,yes
+15,France,Male,Propriétaire,Locataire,6,,yes
+16,France,Female,Locataire,Locataire,5,1989-04-09 11:47:46.632931,yes
+17,USA,Female,Propriétaire,Locataire,6,1995-06-03 11:47:46.632931,no
+18,USA,Female,Locataire,Locataire,7,1992-10-15 11:47:46.632931,yes
+19,Belgium,Female,Propriétaire,Propriétaire,8,1977-05-22 11:47:46.632931,yes
+20,Austria,Female,Locataire,Locataire,6,1973-04-06 11:47:46.632931,yes
+21,Belgium,Female,Propriétaire,Locataire,1,1998-11-20 11:47:46.632931,yes
+22,USA,Female,Propriétaire,Locataire,7,1993-01-26 11:47:46.632931,no
+23,China,Female,Propriétaire,Locataire,7,1992-04-02 11:47:46.632931,no
+24,USA,Female,Propriétaire,Locataire,6,1989-11-08 11:47:46.632931,yes
+25,Belgium,Male,Locataire,Locataire,3,1957-01-10 11:47:46.632931,no
+26,USA,Male,Locataire,Propriétaire,5,1989-06-13 11:47:46.632931,yes
+27,USA,Female,Locataire,Propriétaire,13,2001-11-26 11:47:46.632931,no
+28,USA,Female,Propriétaire,Locataire,6,,yes
+29,USA,,Locataire,Locataire,2,1958-01-22 11:47:46.632931,yes
+30,China,Female,Locataire,Locataire,3,1969-01-13 11:47:46.632931,no
+31,USA,,Locataire,Propriétaire,8,1996-06-17 11:47:46.632931,no
+32,Austria,Female,Locataire,Locataire,3,1998-01-21 11:47:46.632931,yes
+33,China,,Locataire,Propriétaire,10,1900-01-01 11:34:00.000000,no
+34,USA,Male,Locataire,Locataire,2,1978-03-12 11:47:46.632931,yes
+35,USA,Male,Locataire,Locataire,7,,no
+36,USA,Female,Locataire,Locataire,3,1989-08-11 11:47:46.632931,no
+37,USA,Male,Locataire,Propriétaire,5,1992-12-25 11:47:46.632931,yes
+38,France,Male,Propriétaire,Locataire,7,1989-12-12 11:47:46.632931,yes
+39,USA,Female,Locataire,Locataire,6,1978-08-11 11:47:46.632931,yes
+40,France,Female,Propriétaire,Locataire,4,,yes
+41,France,Female,Propriétaire,Locataire,4,1973-09-29 11:47:46.632931,yes
+42,USA,Female,Propriétaire,Propriétaire,5,1980-10-10 11:47:46.632931,no
+43,USA,Female,Locataire,Locataire,6,1990-05-28 11:47:46.632931,yes
+44,USA,Male,Locataire,Locataire,7,1986-12-22 11:47:46.632931,no
+45,Belgium,,Locataire,Locataire,9,1958-07-30 11:47:46.632931,no
+46,USA,Female,Propriétaire,Propriétaire,8,1975-03-07 11:47:46.632931,yes
+47,France,Female,Locataire,Locataire,6,2002-01-11 11:47:46.632931,yes
+48,USA,Male,Locataire,Locataire,7,,yes
+49,China,Male,Locataire,Propriétaire,8,1992-05-08 11:47:46.632931,no
+50,China,Female,Locataire,Locataire,6,1980-10-19 11:47:46.632931,no
+51,Belgium,Male,Propriétaire,Locataire,6,1969-02-01 11:47:46.632931,yes
+52,USA,Female,Propriétaire,Propriétaire,10,1995-09-30 11:47:46.632931,yes
+53,France,Male,Locataire,Locataire,6,1996-02-29 11:47:46.632931,yes
+54,Belgium,Male,Propriétaire,Locataire,6,1998-04-24 11:47:46.632931,yes
+55,France,Male,Locataire,Locataire,6,,yes
+56,China,Male,Propriétaire,Locataire,1,2000-04-28 11:47:46.632931,no
+57,USA,Female,Propriétaire,Locataire,4,1989-01-13 11:47:46.632931,yes
+58,USA,Female,Locataire,Locataire,9,1982-02-10 11:47:46.632931,yes
+59,Austria,,Locataire,Locataire,8,1988-01-25 11:47:46.632931,yes
+60,France,Female,Locataire,Locataire,4,2001-03-24 11:47:46.632931,no
+61,China,,Locataire,Locataire,5,1994-08-30 11:47:46.632931,no
+62,USA,Female,Propriétaire,Propriétaire,3,1980-04-23 11:47:46.632931,no
+63,China,Female,Locataire,Locataire,8,1989-12-22 11:47:46.632931,no
+64,USA,Female,Propriétaire,Locataire,6,1964-06-01 11:47:46.632931,yes
+65,Belgium,Female,Locataire,Locataire,6,1992-10-16 11:47:46.632931,no
+66,Belgium,Female,Propriétaire,Propriétaire,6,1900-01-01 11:34:00.000000,no
+67,France,Male,Propriétaire,Locataire,4,1990-09-20 11:47:46.632931,yes
+68,USA,Female,Locataire,Locataire,4,1991-11-07 11:47:46.632931,yes
+69,China,Female,Propriétaire,Locataire,10,,yes
+70,USA,Female,Locataire,Locataire,6,1987-08-27 11:47:46.632931,yes
+71,USA,Female,Locataire,Locataire,6,1995-04-02 11:47:46.632931,yes
+72,China,,Locataire,Locataire,10,,no
+73,China,Male,Propriétaire,Propriétaire,8,1994-04-11 11:47:46.632931,no
+74,USA,Male,Locataire,Locataire,1,2000-03-28 11:47:46.632931,yes
+75,China,Female,Propriétaire,Propriétaire,9,1974-08-30 11:47:46.632931,no
+76,China,Male,Propriétaire,Propriétaire,7,1991-04-13 11:47:46.632931,yes
+77,France,Female,Propriétaire,Propriétaire,9,1968-01-15 11:47:46.632931,yes
+78,China,Female,Locataire,Propriétaire,4,1955-08-03 11:47:46.632931,no
+79,Austria,Male,Locataire,Locataire,9,1985-03-04 11:47:46.632931,yes
+80,USA,Female,Locataire,Locataire,3,1979-12-16 11:47:46.632931,yes
+81,France,Female,Locataire,Locataire,2,1989-06-28 11:47:46.632931,yes
+82,USA,Female,Locataire,Propriétaire,6,1988-07-20 11:47:46.632931,yes
+83,China,Female,Locataire,Locataire,6,,no
+84,USA,Female,Locataire,Propriétaire,5,,yes
+85,USA,Female,Propriétaire,Locataire,11,1978-07-03 11:47:46.632931,yes
+86,USA,,Locataire,Propriétaire,3,2001-09-28 11:47:46.632931,yes
+87,France,,Locataire,Propriétaire,9,1999-01-05 11:47:46.632931,yes
+88,Austria,Female,Locataire,Locataire,1,1978-07-12 11:47:46.632931,yes
+89,France,Female,Locataire,Locataire,2,1957-03-22 11:47:46.632931,yes
+90,USA,Female,Locataire,Locataire,10,1996-10-05 11:47:46.632931,no
+91,USA,Male,Locataire,Locataire,9,1982-12-03 11:47:46.632931,yes
+92,USA,Female,Locataire,Locataire,1,1991-12-04 11:47:46.632931,yes
+93,USA,Male,Locataire,Locataire,4,1988-01-09 11:47:46.632931,yes
+94,China,Female,Locataire,Propriétaire,3,,yes
+95,Austria,Female,Locataire,Locataire,8,,yes
+96,USA,Female,Propriétaire,Propriétaire,8,1999-04-07 11:47:46.632931,yes
+97,USA,Male,Locataire,Locataire,3,1970-10-22 11:47:46.632931,yes
+98,USA,Female,Locataire,Locataire,7,1984-01-15 11:47:46.632931,yes
+99,China,Male,Locataire,Locataire,8,1900-01-01 11:34:00.000000,no
+100,China,Male,Locataire,Locataire,6,1989-01-26 11:47:46.632931,no
+101,USA,Male,Locataire,Locataire,8,,yes
+102,USA,,Locataire,Locataire,2,2000-04-10 11:47:46.632931,yes
+103,USA,Male,Locataire,Locataire,6,1968-11-12 11:47:46.632931,yes
+104,USA,Female,Locataire,Locataire,5,,no
+105,France,Female,Locataire,Locataire,6,1993-03-23 11:47:46.632931,yes
+106,USA,Female,Propriétaire,Propriétaire,3,1963-07-22 11:47:46.632931,no
+107,USA,Female,Locataire,Locataire,3,1971-12-03 11:47:46.632931,yes
+108,Austria,Female,Locataire,Locataire,1,1989-02-07 11:47:46.632931,no
+109,Belgium,Male,Locataire,Locataire,8,1990-07-21 11:47:46.632931,no
+110,USA,Female,Locataire,Locataire,1,,yes
+111,France,Female,Propriétaire,Propriétaire,7,,yes
+112,France,Male,Locataire,Propriétaire,8,1990-09-15 11:47:46.632931,yes
+113,China,Male,Locataire,Locataire,5,,no
+114,USA,Male,Locataire,Locataire,5,1990-10-18 11:47:46.632931,yes
+115,Belgium,Female,Locataire,Locataire,6,1964-05-16 11:47:46.632931,no
+116,China,Female,Locataire,Locataire,3,,yes
+117,Belgium,Female,Locataire,Locataire,6,1980-09-17 11:47:46.632931,yes
+118,China,Male,Locataire,Locataire,4,2002-10-24 11:47:46.632931,no
+119,China,Female,Locataire,Locataire,6,1979-11-16 11:47:46.632931,no
+120,China,Female,Propriétaire,Locataire,7,1991-06-22 11:47:46.632931,no
+121,USA,,Locataire,Locataire,11,,yes
+122,France,Male,Locataire,Locataire,6,,yes
+123,USA,Female,Locataire,Locataire,5,1996-01-08 11:47:46.632931,no
+124,USA,Male,Locataire,Locataire,2,1981-07-09 11:47:46.632931,yes
+125,USA,Female,Propriétaire,Locataire,10,2002-09-29 11:47:46.632931,no
+126,France,,Locataire,Propriétaire,10,1946-11-06 11:47:46.632931,yes
+127,USA,Male,Locataire,Locataire,11,,yes
+128,USA,Female,Propriétaire,Locataire,4,,yes
+129,France,Male,Locataire,Locataire,4,1984-09-14 11:47:46.632931,no
+130,USA,Female,Locataire,Locataire,6,1994-11-03 11:47:46.632931,yes
+131,China,Male,Locataire,Locataire,7,,yes
+132,China,,Locataire,Locataire,8,1900-01-01 11:34:00.000000,no
+133,USA,Male,Locataire,Locataire,8,1955-08-18 11:47:46.632931,yes
+134,USA,Female,Locataire,Locataire,6,1959-04-01 11:47:46.632931,yes
+135,USA,Female,Locataire,Locataire,8,1980-07-30 11:47:46.632931,no
+136,USA,Male,Locataire,Locataire,4,1992-07-10 11:47:46.632931,yes
+137,USA,Male,Locataire,Propriétaire,2,2001-07-27 11:47:46.632931,yes
+138,USA,Male,Locataire,Locataire,8,2002-05-09 11:47:46.632931,yes
+139,USA,Female,Locataire,Locataire,10,1981-02-17 11:47:46.632931,yes
+140,Belgium,Female,Locataire,Locataire,4,1990-05-26 11:47:46.632931,yes
+141,USA,Male,Locataire,Locataire,2,1977-01-30 11:47:46.632931,yes
+142,USA,Female,Locataire,Locataire,5,1974-07-16 11:47:46.632931,yes
+143,China,Male,Propriétaire,Locataire,4,1985-07-29 11:47:46.632931,no
+144,France,,Propriétaire,Locataire,6,1992-07-23 11:47:46.632931,yes
+145,France,Female,Locataire,Locataire,3,,no
+146,Belgium,,Locataire,Locataire,3,,yes
+147,France,Female,Propriétaire,Propriétaire,9,2002-02-08 11:47:46.632931,yes
+148,USA,Female,Locataire,Locataire,3,,yes
+149,Austria,,Locataire,Propriétaire,8,1994-04-02 11:47:46.632931,yes
+150,France,Female,Locataire,Locataire,3,1983-01-26 11:47:46.632931,yes
+151,China,Female,Locataire,Locataire,7,,no
+152,USA,Female,Locataire,Locataire,1,1981-04-22 11:47:46.632931,yes
+153,USA,Male,Locataire,Locataire,5,,yes
+154,USA,Female,Locataire,Propriétaire,5,1990-06-06 11:47:46.632931,yes
+155,USA,Female,Locataire,Locataire,6,1986-09-08 11:47:46.632931,yes
+156,France,Female,Locataire,Locataire,5,1998-06-18 11:47:46.632931,yes
+157,USA,Male,Locataire,Propriétaire,7,1988-08-17 11:47:46.632931,yes
+158,Austria,Female,Locataire,Propriétaire,9,1958-03-29 11:47:46.632931,no
+159,China,Male,Propriétaire,Locataire,3,1981-08-19 11:47:46.632931,no
+160,France,Male,Locataire,Locataire,4,1976-08-31 11:47:46.632931,yes
+161,France,Female,Locataire,Propriétaire,8,2001-11-06 11:47:46.632931,yes
+162,China,Female,Locataire,Locataire,6,1995-03-03 11:47:46.632931,no
+163,France,Female,Propriétaire,Locataire,6,1983-12-03 11:47:46.632931,yes
+164,Belgium,Female,Locataire,Locataire,6,1994-09-07 11:47:46.632931,no
+165,France,Female,Locataire,Locataire,4,1900-01-01 11:34:00.000000,yes
+166,USA,Male,Propriétaire,Propriétaire,6,1996-07-06 11:47:46.632931,no
+167,USA,Male,Locataire,Propriétaire,1,1983-06-06 11:47:46.632931,no
+168,China,Female,Propriétaire,Propriétaire,4,,no
+169,France,Female,Locataire,Locataire,7,1961-09-01 11:47:46.632931,no
+170,USA,Female,Locataire,Locataire,5,1994-12-16 11:47:46.632931,yes
+171,USA,Female,Locataire,Locataire,9,1988-07-01 11:47:46.632931,yes
+172,China,Female,Locataire,Locataire,3,1991-04-02 11:47:46.632931,no
+173,China,Female,Locataire,Locataire,6,2002-01-15 11:47:46.632931,no
+174,France,Male,Propriétaire,Locataire,6,1977-03-09 11:47:46.632931,yes
+175,Belgium,Female,Propriétaire,Locataire,7,1980-03-07 11:47:46.632931,no
+176,China,Female,Locataire,Locataire,1,1999-06-27 11:47:46.632931,no
+177,USA,Male,Locataire,Locataire,1,1984-09-11 11:47:46.632931,no
+178,France,Female,Locataire,Propriétaire,6,1979-01-04 11:47:46.632931,yes
+179,France,Male,Locataire,Locataire,8,,yes
+180,Austria,Female,Locataire,Locataire,7,1991-06-18 11:47:46.632931,yes
+181,China,,Propriétaire,Locataire,6,1965-08-01 11:47:46.632931,no
+182,USA,Female,Locataire,Locataire,7,1997-06-23 11:47:46.632931,yes
+183,Belgium,Female,Locataire,Locataire,9,1987-06-15 11:47:46.632931,yes
+184,Belgium,Male,Locataire,Propriétaire,6,1969-12-10 11:47:46.632931,no
+185,Belgium,Female,Propriétaire,Locataire,10,,no
+186,USA,Male,Locataire,Locataire,4,1981-10-07 11:47:46.632931,yes
+187,China,Female,Propriétaire,Locataire,5,1969-06-14 11:47:46.632931,yes
+188,USA,Female,Locataire,Locataire,9,1954-11-07 11:47:46.632931,yes
+189,USA,Male,Locataire,Propriétaire,6,1964-03-12 11:47:46.632931,no
+190,China,Female,Locataire,Locataire,7,,no
+191,USA,Female,Locataire,Locataire,4,1985-06-30 11:47:46.632931,yes
+192,China,Male,Locataire,Locataire,7,1997-02-09 11:47:46.632931,no
+193,USA,Male,Locataire,Locataire,10,1977-11-19 11:47:46.632931,no
+194,USA,Female,Locataire,Propriétaire,1,1987-11-28 11:47:46.632931,yes
+195,France,Male,Locataire,Locataire,1,1966-09-30 11:47:46.632931,yes
+196,China,Female,Propriétaire,Locataire,4,,yes
+197,China,Female,Locataire,Propriétaire,8,1983-04-20 11:47:46.632931,yes
+198,USA,Female,Locataire,Locataire,8,1900-01-01 11:34:00.000000,yes
+199,France,,Locataire,Locataire,2,1982-04-21 11:47:46.632931,yes
+200,China,Female,Locataire,Locataire,6,1957-01-11 11:47:46.632931,no
+201,USA,Male,Locataire,Locataire,4,,yes
+202,Austria,Female,Locataire,Propriétaire,7,,no
+203,China,Male,Locataire,Locataire,4,1986-10-05 11:47:46.632931,no
+204,USA,Female,Propriétaire,Locataire,1,,yes
+205,China,,Locataire,Propriétaire,6,1993-08-11 11:47:46.632931,yes
+206,China,Female,Locataire,Propriétaire,1,1981-06-28 11:47:46.632931,yes
+207,USA,Female,Propriétaire,Locataire,4,1975-06-12 11:47:46.632931,yes
+208,USA,Female,Locataire,Locataire,7,,yes
+209,USA,,Locataire,Locataire,4,,yes
+210,China,Female,Locataire,Propriétaire,8,1979-07-07 11:47:46.632931,no
+211,USA,Female,Locataire,Locataire,6,1992-05-22 11:47:46.632931,yes
+212,Belgium,Female,Locataire,Locataire,3,,yes
+213,USA,Female,Locataire,Locataire,1,1999-02-18 11:47:46.632931,yes
+214,France,Male,Locataire,Locataire,8,1984-10-05 11:47:46.632931,yes
+215,China,Female,Locataire,Locataire,1,1971-02-20 11:47:46.632931,no
+216,China,Female,Locataire,Propriétaire,7,1966-07-23 11:47:46.632931,no
+217,China,Female,Propriétaire,Locataire,8,1996-03-18 11:47:46.632931,no
+218,Belgium,Female,Locataire,Locataire,5,1993-07-29 11:47:46.632931,no
+219,China,Male,Locataire,Locataire,2,1993-07-12 11:47:46.632931,yes
+220,Austria,Female,Locataire,Locataire,8,2002-04-13 11:47:46.632931,yes
+221,USA,Female,Locataire,Propriétaire,5,2001-05-14 11:47:46.632931,yes
+222,USA,Female,Locataire,Locataire,3,1976-05-07 11:47:46.632931,yes
+223,China,Female,Locataire,Locataire,6,1962-02-26 11:47:46.632931,yes
+224,USA,Female,Propriétaire,Propriétaire,5,1974-11-09 11:47:46.632931,yes
+225,France,Female,Locataire,Locataire,2,1978-11-18 11:47:46.632931,yes
+226,Belgium,Female,Locataire,Locataire,7,1959-12-06 11:47:46.632931,no
+227,China,Male,Locataire,Locataire,6,1980-08-23 11:47:46.632931,yes
+228,Belgium,Female,Propriétaire,Locataire,7,1998-01-23 11:47:46.632931,yes
+229,Belgium,Male,Locataire,Propriétaire,6,1981-07-20 11:47:46.632931,yes
+230,USA,Female,Locataire,Locataire,9,1987-10-03 11:47:46.632931,yes
+231,France,Female,Locataire,Locataire,7,1900-01-01 11:34:00.000000,yes
+232,China,Female,Propriétaire,Locataire,3,1981-09-04 11:47:46.632931,yes
+233,USA,Female,Locataire,Locataire,8,1977-01-13 11:47:46.632931,yes
+234,Belgium,,Propriétaire,Locataire,4,,no
+235,China,Male,Propriétaire,Locataire,7,1982-11-01 11:47:46.632931,yes
+236,USA,Female,Propriétaire,Propriétaire,1,,yes
+237,USA,Female,Locataire,Locataire,5,,yes
+238,USA,Female,Locataire,Propriétaire,4,1971-10-09 11:47:46.632931,yes
+239,USA,Male,Locataire,Locataire,5,,yes
+240,USA,Female,Locataire,Locataire,8,,yes
+241,USA,Female,Locataire,Locataire,2,1978-06-15 11:47:46.632931,yes
+242,USA,Female,Propriétaire,Locataire,7,1984-04-14 11:47:46.632931,yes
+243,France,Male,Locataire,Locataire,5,1976-06-17 11:47:46.632931,yes
+244,Austria,Female,Locataire,Locataire,11,1988-01-12 11:47:46.632931,yes
+245,France,Female,Locataire,Locataire,6,1961-03-10 11:47:46.632931,yes
+246,USA,Female,Propriétaire,Locataire,6,1967-10-01 11:47:46.632931,no
+247,China,Female,Locataire,Propriétaire,6,1983-12-27 11:47:46.632931,yes
+248,China,,Locataire,Locataire,10,,no
+249,France,Female,Locataire,Propriétaire,1,1988-06-02 11:47:46.632931,yes
+250,Belgium,Female,Locataire,Locataire,6,,yes
+251,USA,Female,Locataire,Locataire,5,1981-11-11 11:47:46.632931,no
+252,USA,Female,Locataire,Locataire,1,1981-06-15 11:47:46.632931,yes
+253,China,Male,Locataire,Locataire,6,1974-05-24 11:47:46.632931,no
+254,France,Male,Locataire,Locataire,9,1981-08-11 11:47:46.632931,yes
+255,USA,Female,Propriétaire,Locataire,7,,yes
+256,China,Female,Propriétaire,Propriétaire,9,1977-11-18 11:47:46.632931,no
+257,USA,Female,Locataire,Propriétaire,2,1969-06-24 11:47:46.632931,yes
+258,China,Female,Locataire,Locataire,6,2001-05-05 11:47:46.632931,yes
+259,USA,,Locataire,Locataire,9,1990-01-14 11:47:46.632931,yes
+260,Austria,Male,Locataire,Locataire,7,1997-11-22 11:47:46.632931,yes
+261,France,,Propriétaire,Locataire,5,1972-02-10 11:47:46.632931,yes
+262,France,Female,Locataire,Locataire,5,1977-09-25 11:47:46.632931,yes
+263,USA,Female,Locataire,Locataire,8,1985-11-18 11:47:46.632931,no
+264,China,Male,Locataire,Locataire,4,1900-01-01 11:34:00.000000,no
+265,France,,Locataire,Locataire,12,2000-05-23 11:47:46.632931,yes
+266,USA,Female,Propriétaire,Locataire,5,,yes
+267,USA,Female,Locataire,Locataire,6,1981-01-16 11:47:46.632931,yes
+268,China,Female,Locataire,Locataire,3,1971-06-05 11:47:46.632931,no
+269,USA,Female,Locataire,Locataire,8,1981-01-27 11:47:46.632931,no
+270,France,Male,Locataire,Locataire,6,1998-06-26 11:47:46.632931,yes
+271,China,Male,Locataire,Propriétaire,4,1977-04-16 11:47:46.632931,yes
+272,Austria,Female,Propriétaire,Locataire,4,1986-06-27 11:47:46.632931,no
+273,Belgium,Female,Locataire,Locataire,3,1991-04-01 11:47:46.632931,yes
+274,Belgium,Female,Propriétaire,Locataire,7,1983-07-01 11:47:46.632931,yes
+275,USA,,Locataire,Locataire,7,1964-06-04 11:47:46.632931,no
+276,France,Female,Propriétaire,Locataire,4,1984-04-06 11:47:46.632931,yes
+277,USA,,Locataire,Locataire,6,1962-06-02 11:47:46.632931,no
+278,Belgium,Male,Locataire,Locataire,1,1992-03-23 11:47:46.632931,no
+279,France,Male,Locataire,Propriétaire,11,,yes
+280,USA,,Locataire,Locataire,5,1998-07-01 11:47:46.632931,yes
+281,USA,Female,Propriétaire,Locataire,6,1996-10-26 11:47:46.632931,yes
+282,Belgium,Female,Locataire,Locataire,3,1994-12-04 11:47:46.632931,no
+283,China,Female,Locataire,Locataire,4,,no
+284,USA,Male,Locataire,Propriétaire,7,1985-04-22 11:47:46.632931,yes
+285,France,Male,Locataire,Propriétaire,4,1982-03-05 11:47:46.632931,yes
+286,USA,Female,Propriétaire,Locataire,8,1971-06-18 11:47:46.632931,yes
+287,France,,Propriétaire,Locataire,4,1986-01-10 11:47:46.632931,yes
+288,Belgium,Male,Locataire,Propriétaire,6,1984-10-17 11:47:46.632931,yes
+289,USA,Male,Locataire,Locataire,8,1988-06-18 11:47:46.632931,yes
+290,USA,Female,Locataire,Locataire,5,1956-11-01 11:47:46.632931,yes
+291,USA,Female,Propriétaire,Locataire,9,1986-01-21 11:47:46.632931,yes
+292,Austria,Female,Locataire,Locataire,9,1997-08-01 11:47:46.632931,yes
+293,USA,Female,Locataire,Locataire,1,1999-01-31 11:47:46.632931,yes
+294,France,Female,Locataire,Locataire,7,,yes
+295,France,Female,Locataire,Propriétaire,3,1992-10-22 11:47:46.632931,no
+296,China,Female,Propriétaire,Locataire,10,,no
+297,China,Female,Locataire,Locataire,4,1900-01-01 11:34:00.000000,no
+298,France,Female,Locataire,Locataire,3,1987-01-29 11:47:46.632931,yes
+299,China,Male,Locataire,Locataire,6,1982-08-25 11:47:46.632931,no
+4567,China,Female,Locataire,Locataire,9,1983-06-04 11:47:46.632931,no
+301,France,Male,Locataire,Locataire,8,2000-06-22 11:47:46.632931,yes
+302,France,Male,Locataire,Locataire,5,1979-06-07 11:47:46.632931,yes
+303,USA,Male,Locataire,Locataire,8,1972-04-06 11:47:46.632931,no
+304,USA,Male,Locataire,Locataire,7,1984-06-25 11:47:46.632931,yes
+305,China,Female,Locataire,Locataire,9,1976-12-01 11:47:46.632931,yes
+306,USA,Female,Locataire,Locataire,8,1992-04-24 11:47:46.632931,yes
+307,France,Male,Locataire,Locataire,7,1966-12-05 11:47:46.632931,yes
+308,USA,Female,Propriétaire,Locataire,4,,yes
+309,France,Female,Locataire,Propriétaire,5,1987-11-23 11:47:46.632931,yes
+310,USA,Female,Locataire,Locataire,2,1976-08-07 11:47:46.632931,yes
+311,USA,Female,Locataire,Locataire,1,1996-03-08 11:47:46.632931,yes
+312,France,Male,Locataire,Locataire,12,1985-03-15 11:47:46.632931,yes
+313,USA,Male,Locataire,Locataire,7,1982-02-20 11:47:46.632931,yes
+314,France,Male,Locataire,Locataire,9,1985-04-18 11:47:46.632931,yes
+315,Belgium,Female,Locataire,Propriétaire,5,,yes
+316,USA,Female,Locataire,Locataire,10,1984-12-28 11:47:46.632931,yes
+317,USA,Female,Locataire,Locataire,8,1981-06-11 11:47:46.632931,yes
+318,China,Female,Locataire,Locataire,1,1987-03-01 11:47:46.632931,no
+319,USA,Female,Propriétaire,Locataire,6,2001-04-02 11:47:46.632931,yes
+320,China,Male,Locataire,Locataire,2,,no
+321,Belgium,Male,Locataire,Propriétaire,1,1996-06-24 11:47:46.632931,yes
+322,Austria,Female,Propriétaire,Propriétaire,4,,yes
+323,France,Male,Propriétaire,Locataire,4,,yes
+324,USA,Male,Propriétaire,Locataire,5,1980-03-20 11:47:46.632931,yes
+325,China,Female,Propriétaire,Locataire,6,1983-07-01 11:47:46.632931,yes
+326,USA,Male,Locataire,Locataire,7,1959-12-27 11:47:46.632931,no
+327,China,Female,Locataire,Locataire,7,1986-04-13 11:47:46.632931,no
+328,USA,Male,Propriétaire,Locataire,7,1994-04-04 11:47:46.632931,no
+329,Belgium,Female,Locataire,Locataire,9,1990-09-19 11:47:46.632931,yes
+330,Belgium,,Locataire,Locataire,5,1900-01-01 11:34:00.000000,yes
+331,USA,Female,Locataire,Locataire,7,1979-02-27 11:47:46.632931,no
+332,Austria,Male,Propriétaire,Locataire,6,1969-05-13 11:47:46.632931,yes
+333,France,Male,Locataire,Propriétaire,5,1987-04-24 11:47:46.632931,yes
+334,China,Female,Locataire,Locataire,10,,no
+335,USA,Female,Locataire,Locataire,9,1981-12-13 11:47:46.632931,yes
+336,France,Female,Propriétaire,Locataire,11,1991-10-25 11:47:46.632931,yes
+337,USA,Female,Locataire,Locataire,7,1972-01-21 11:47:46.632931,yes
+338,China,Female,Propriétaire,Locataire,2,1983-04-15 11:47:46.632931,no
+339,China,Female,Locataire,Locataire,4,1977-11-19 11:47:46.632931,no
+340,USA,,Locataire,Propriétaire,6,1995-04-14 11:47:46.632931,yes
+341,China,,Locataire,Locataire,6,,no
+342,China,Female,Locataire,Locataire,8,1991-04-20 11:47:46.632931,no
+343,USA,,Locataire,Locataire,4,,yes
+344,China,Male,Propriétaire,Locataire,2,1972-03-18 11:47:46.632931,no
+345,China,Male,Locataire,Locataire,8,1991-10-30 11:47:46.632931,no
+346,USA,,Locataire,Locataire,12,,yes
+347,USA,Female,Locataire,Locataire,12,2000-04-22 11:47:46.632931,yes
+348,Austria,,Locataire,Locataire,6,,yes
+349,China,Female,Locataire,Locataire,5,,yes
+350,Belgium,Female,Propriétaire,Propriétaire,5,1964-03-05 11:47:46.632931,yes
+351,USA,Female,Locataire,Locataire,8,,yes
+352,Austria,Female,Locataire,Locataire,8,1993-07-25 11:47:46.632931,yes
+353,China,Female,Locataire,Locataire,6,1956-06-07 11:47:46.632931,no
+354,USA,Female,Propriétaire,Locataire,6,,yes
+355,France,Male,Locataire,Locataire,3,1980-04-26 11:47:46.632931,no
+356,France,Male,Locataire,Locataire,8,1986-06-06 11:47:46.632931,yes
+357,France,Male,Propriétaire,Propriétaire,7,,yes
+358,China,Female,Locataire,Locataire,7,1976-03-03 11:47:46.632931,no
+359,Belgium,Male,Locataire,Propriétaire,6,,no
+360,France,Female,Locataire,Propriétaire,4,1954-10-14 11:47:46.632931,no
+361,France,Female,Propriétaire,Locataire,8,1981-02-28 11:47:46.632931,yes
+362,France,Male,Locataire,Locataire,5,1989-10-31 11:47:46.632931,yes
+363,Austria,Female,Locataire,Locataire,5,1900-01-01 11:34:00.000000,yes
+364,China,Female,Locataire,Locataire,4,1970-06-09 11:47:46.632931,no
+365,Austria,Female,Locataire,Locataire,3,1994-05-28 11:47:46.632931,yes
+366,France,Male,Locataire,Locataire,1,,yes
+367,China,Male,Locataire,Propriétaire,2,1990-11-03 11:47:46.632931,no
+368,USA,Female,Locataire,Locataire,2,1983-09-03 11:47:46.632931,yes
+369,France,Male,Locataire,Propriétaire,1,1981-01-29 11:47:46.632931,yes
+370,France,Female,Propriétaire,Locataire,9,1985-12-22 11:47:46.632931,yes
+371,France,Male,Locataire,Locataire,6,1969-12-22 11:47:46.632931,yes
+372,France,Female,Locataire,Propriétaire,3,1977-03-21 11:47:46.632931,yes
+373,China,Female,Locataire,Propriétaire,5,,no
+374,China,Female,Locataire,Locataire,7,1985-12-20 11:47:46.632931,no
+375,Belgium,Female,Locataire,Locataire,4,1975-05-16 11:47:46.632931,no
+376,USA,Female,Locataire,Propriétaire,6,1994-03-30 11:47:46.632931,yes
+377,Austria,Male,Locataire,Locataire,6,,yes
+378,USA,Male,Locataire,Locataire,3,1971-11-10 11:47:46.632931,yes
+379,Belgium,,Propriétaire,Propriétaire,1,,yes
+380,Belgium,Female,Locataire,Locataire,2,1999-08-12 11:47:46.632931,no
+381,France,Male,Locataire,Propriétaire,4,1975-11-01 11:47:46.632931,yes
+382,China,Male,Locataire,Locataire,7,1967-05-12 11:47:46.632931,no
+383,USA,Female,Locataire,Locataire,9,1993-09-01 11:47:46.632931,no
+384,France,Female,Locataire,Locataire,2,,yes
+385,USA,Male,Locataire,Locataire,9,1971-06-17 11:47:46.632931,yes
+386,USA,Female,Locataire,Locataire,9,1971-09-20 11:47:46.632931,yes
+387,France,Male,Propriétaire,Locataire,2,1991-02-07 11:47:46.632931,yes
+388,China,,Locataire,Locataire,7,,yes
+389,USA,Male,Locataire,Locataire,3,1977-03-30 11:47:46.632931,yes
+390,USA,Male,Locataire,Locataire,6,1991-02-02 11:47:46.632931,yes
+391,France,Female,Locataire,Locataire,9,1951-07-22 11:47:46.632931,yes
+392,China,Male,Locataire,Propriétaire,6,1969-08-19 11:47:46.632931,no
+393,USA,Female,Locataire,Locataire,5,1987-11-05 11:47:46.632931,yes
+394,USA,Female,Locataire,Locataire,4,1988-03-01 11:47:46.632931,no
+395,China,Male,Locataire,Locataire,5,1996-06-18 11:47:46.632931,no
+396,USA,Female,Locataire,Propriétaire,2,1900-01-01 11:34:00.000000,yes
+397,France,Female,Propriétaire,Locataire,7,1980-03-28 11:47:46.632931,yes
+398,USA,Male,Locataire,Propriétaire,6,1970-06-09 11:47:46.632931,yes
+399,USA,Female,Propriétaire,Propriétaire,5,1991-10-08 11:47:46.632931,yes
+400,Belgium,Female,Locataire,Locataire,6,2001-10-18 11:47:46.632931,no
+401,USA,Male,Locataire,Locataire,5,1980-07-07 11:47:46.632931,yes
+402,Belgium,Male,Locataire,Locataire,9,1980-01-03 11:47:46.632931,yes
+403,Belgium,Male,Propriétaire,Locataire,7,1970-09-24 11:47:46.632931,yes
+404,France,Female,Locataire,Locataire,2,2001-06-28 11:47:46.632931,yes
+405,China,Female,Locataire,Propriétaire,3,1990-04-08 11:47:46.632931,no
+406,China,Male,Locataire,Locataire,4,1973-10-05 11:47:46.632931,no
+407,China,Female,Locataire,Propriétaire,6,1994-12-12 11:47:46.632931,no
+408,USA,Male,Locataire,Locataire,3,1961-04-09 11:47:46.632931,yes
+409,USA,Female,Locataire,Locataire,6,1975-01-03 11:47:46.632931,yes
+410,Belgium,,Locataire,Propriétaire,1,1982-09-28 11:47:46.632931,no
+411,France,Female,Locataire,Propriétaire,6,1960-02-13 11:47:46.632931,yes
+412,Belgium,Male,Locataire,Locataire,5,1970-02-01 11:47:46.632931,yes
+413,Belgium,Female,Locataire,Locataire,4,1982-05-15 11:47:46.632931,no
+414,China,Female,Locataire,Locataire,5,1993-11-09 11:47:46.632931,yes
+415,China,Female,Locataire,Locataire,6,1984-03-11 11:47:46.632931,no
+416,USA,,Locataire,Locataire,4,1995-10-21 11:47:46.632931,yes
+417,France,Male,Locataire,Locataire,5,1967-03-02 11:47:46.632931,yes
+418,USA,Male,Locataire,Propriétaire,8,1999-08-29 11:47:46.632931,no
+419,USA,Female,Locataire,Locataire,6,2000-01-18 11:47:46.632931,yes
+420,Austria,,Propriétaire,Locataire,8,1954-07-08 11:47:46.632931,yes
+421,China,Female,Locataire,Locataire,2,1998-12-17 11:47:46.632931,no
+422,China,Female,Locataire,Propriétaire,8,1987-04-30 11:47:46.632931,no
+423,USA,Female,Propriétaire,Propriétaire,1,1979-06-26 11:47:46.632931,yes
+424,China,Female,Locataire,Locataire,6,1987-04-14 11:47:46.632931,no
+425,USA,Female,Propriétaire,Propriétaire,4,1975-03-19 11:47:46.632931,yes
+426,USA,Female,Propriétaire,Locataire,2,1988-09-02 11:47:46.632931,yes
+427,France,Male,Propriétaire,Locataire,4,1986-10-06 11:47:46.632931,yes
+428,USA,,Locataire,Locataire,9,1990-11-25 11:47:46.632931,yes
+429,USA,Male,Locataire,Locataire,4,1900-01-01 11:34:00.000000,no
+430,USA,Female,Propriétaire,Propriétaire,7,1969-11-11 11:47:46.632931,yes
+431,France,Female,Locataire,Locataire,6,1979-03-22 11:47:46.632931,yes
+432,France,Female,Locataire,Locataire,9,1989-12-27 11:47:46.632931,no
+433,USA,Female,Propriétaire,Locataire,4,1982-08-17 11:47:46.632931,yes
+434,China,Female,Locataire,Locataire,7,,yes
+435,USA,Female,Locataire,Locataire,2,1999-06-24 11:47:46.632931,yes
+436,USA,Female,Locataire,Locataire,9,1994-12-09 11:47:46.632931,yes
+437,China,Male,Propriétaire,Locataire,8,1998-01-20 11:47:46.632931,no
+438,USA,Female,Locataire,Propriétaire,10,1996-05-22 11:47:46.632931,yes
+439,Austria,Female,Locataire,Propriétaire,9,1964-04-09 11:47:46.632931,yes
+440,USA,Female,Locataire,Locataire,7,1977-07-22 11:47:46.632931,yes
+441,USA,,Locataire,Locataire,8,,yes
+442,China,Female,Locataire,Locataire,2,1995-05-14 11:47:46.632931,no
+443,USA,,Locataire,Locataire,3,1998-08-20 11:47:46.632931,yes
+444,China,Male,Propriétaire,Locataire,8,1996-10-13 11:47:46.632931,no
+445,USA,Female,Locataire,Locataire,7,1982-12-18 11:47:46.632931,yes
+446,France,Female,Locataire,Locataire,9,1991-10-19 11:47:46.632931,yes
+447,France,Female,Locataire,Locataire,6,1997-12-30 11:47:46.632931,yes
+448,USA,Female,Locataire,Locataire,1,1987-04-19 11:47:46.632931,yes
+449,USA,Female,Locataire,Locataire,9,1993-10-02 11:47:46.632931,yes
+450,China,Male,Locataire,Locataire,7,1970-07-02 11:47:46.632931,yes
+451,France,Female,Locataire,Locataire,3,1969-02-05 11:47:46.632931,yes
+452,USA,Male,Locataire,Locataire,7,1997-01-08 11:47:46.632931,no
+453,France,Male,Locataire,Locataire,11,,yes
+454,USA,Female,Locataire,Locataire,7,,yes
+455,China,Female,Propriétaire,Propriétaire,4,1990-11-22 11:47:46.632931,yes
+456,Belgium,Female,Locataire,Locataire,7,1981-08-01 11:47:46.632931,yes
+457,USA,Female,Locataire,Propriétaire,2,1966-11-24 11:47:46.632931,yes
+458,Austria,Female,Locataire,Propriétaire,3,1983-02-17 11:47:46.632931,yes
+459,USA,Male,Locataire,Locataire,2,1986-12-20 11:47:46.632931,yes
+460,France,Female,Locataire,Propriétaire,4,1983-03-15 11:47:46.632931,yes
+461,France,Female,Propriétaire,Locataire,6,,no
+462,Austria,Female,Propriétaire,Locataire,3,1900-01-01 11:34:00.000000,yes
+463,France,Female,Locataire,Propriétaire,4,1989-12-12 11:47:46.632931,yes
+464,France,Male,Propriétaire,Locataire,4,1969-05-28 11:47:46.632931,yes
+465,France,Female,Locataire,Locataire,5,1994-12-17 11:47:46.632931,yes
+466,China,Male,Propriétaire,Propriétaire,6,1995-07-12 11:47:46.632931,yes
+467,USA,Female,Locataire,Locataire,7,1981-06-16 11:47:46.632931,yes
+468,China,Female,Locataire,Propriétaire,6,1976-03-14 11:47:46.632931,no
+469,France,Female,Locataire,Locataire,4,1979-05-24 11:47:46.632931,yes
+470,France,Female,Locataire,Locataire,9,1974-07-21 11:47:46.632931,no
+471,France,Female,Locataire,Locataire,11,1985-05-15 11:47:46.632931,yes
+472,Austria,Male,Locataire,Locataire,1,1962-12-17 11:47:46.632931,yes
+473,Austria,Female,Locataire,Locataire,9,1984-01-06 11:47:46.632931,yes
+474,China,Male,Locataire,Locataire,5,2002-11-21 11:47:46.632931,no
+475,USA,Male,Locataire,Locataire,8,,yes
+476,China,Female,Locataire,Locataire,5,1985-04-02 11:47:46.632931,no
+477,USA,Female,Locataire,Locataire,5,1966-10-04 11:47:46.632931,yes
+478,China,Male,Locataire,Locataire,7,1973-04-26 11:47:46.632931,no
+479,China,Female,Propriétaire,Propriétaire,2,1994-03-31 11:47:46.632931,no
+480,France,Female,Locataire,Propriétaire,10,1984-09-22 11:47:46.632931,yes
+481,China,,Locataire,Locataire,7,1991-03-07 11:47:46.632931,no
+482,France,Male,Locataire,Locataire,4,,yes
+483,USA,,Locataire,Locataire,4,1989-12-08 11:47:46.632931,yes
+484,France,Female,Locataire,Propriétaire,1,1979-09-26 11:47:46.632931,yes
+485,France,Female,Locataire,Propriétaire,4,1999-11-21 11:47:46.632931,yes
+486,USA,Female,Locataire,Locataire,1,1993-08-17 11:47:46.632931,yes
+487,France,Female,Locataire,Locataire,9,,yes
+488,USA,Male,Locataire,Locataire,4,1975-12-24 11:47:46.632931,yes
+489,China,Male,Propriétaire,Locataire,1,1997-08-29 11:47:46.632931,no
+490,USA,Female,Propriétaire,Locataire,6,,no
+491,USA,Male,Locataire,Locataire,1,1983-03-20 11:47:46.632931,yes
+492,France,Male,Locataire,Locataire,7,1988-10-19 11:47:46.632931,yes
+493,Belgium,Male,Locataire,Locataire,3,2001-05-23 11:47:46.632931,yes
+494,France,Female,Locataire,Locataire,10,,yes
+495,USA,Female,Propriétaire,Locataire,1,1900-01-01 11:34:00.000000,yes
+496,France,Female,Propriétaire,Locataire,6,1985-01-03 11:47:46.632931,yes
+497,France,Female,Locataire,Locataire,7,2001-05-25 11:47:46.632931,yes
+498,USA,Female,Locataire,Locataire,6,1991-07-28 11:47:46.632931,yes
+499,USA,Female,Propriétaire,Propriétaire,2,1965-08-01 11:47:46.632931,yes
+500,China,Female,Locataire,Locataire,3,1970-09-28 11:47:46.632931,yes
+501,USA,Female,Locataire,Locataire,6,1991-04-18 11:47:46.632931,no
+502,Belgium,Male,Propriétaire,Locataire,4,,yes
+503,USA,Male,Locataire,Locataire,4,1952-02-26 11:47:46.632931,yes
+504,China,Female,Locataire,Locataire,4,1993-05-19 11:47:46.632931,no
+505,France,Female,Propriétaire,Propriétaire,6,1982-08-30 11:47:46.632931,no
+506,USA,Female,Locataire,Locataire,7,1998-03-26 11:47:46.632931,no
+507,Belgium,Female,Propriétaire,Locataire,11,1984-10-10 11:47:46.632931,yes
+508,USA,Female,Locataire,Locataire,4,1999-05-02 11:47:46.632931,yes
+509,USA,Female,Locataire,Locataire,6,1982-01-06 11:47:46.632931,yes
+510,Belgium,Female,Locataire,Propriétaire,1,2000-12-17 11:47:46.632931,yes
+511,USA,,Locataire,Locataire,3,,yes
+512,France,Male,Locataire,Locataire,4,1984-02-11 11:47:46.632931,yes
+513,France,Male,Locataire,Locataire,7,1954-04-30 11:47:46.632931,yes
+514,China,Female,Locataire,Locataire,4,1996-12-24 11:47:46.632931,no
+515,China,Male,Locataire,Locataire,8,,no
+516,China,Male,Locataire,Locataire,5,1983-08-05 11:47:46.632931,no
+517,Belgium,Male,Locataire,Locataire,4,1992-08-27 11:47:46.632931,yes
+518,Belgium,Male,Locataire,Locataire,3,1998-11-05 11:47:46.632931,no
+519,USA,Female,Locataire,Locataire,10,,yes
+520,Belgium,Male,Propriétaire,Propriétaire,8,1966-12-31 11:47:46.632931,no
+521,Belgium,Female,Locataire,Locataire,7,1970-04-18 11:47:46.632931,yes
+522,France,Female,Locataire,Locataire,8,1993-10-09 11:47:46.632931,yes
+523,USA,Female,Locataire,Propriétaire,3,1970-05-25 11:47:46.632931,no
+524,China,Male,Propriétaire,Propriétaire,1,1997-02-22 11:47:46.632931,yes
+525,Belgium,Female,Locataire,Locataire,1,1968-08-30 11:47:46.632931,no
+526,USA,Female,Locataire,Locataire,3,,no
+527,China,Female,Locataire,Locataire,7,2000-02-06 11:47:46.632931,no
+528,China,Female,Locataire,Locataire,2,1900-01-01 11:34:00.000000,yes
+529,USA,Female,Locataire,Locataire,5,,yes
+530,France,Female,Locataire,Propriétaire,2,1971-04-08 11:47:46.632931,no
+531,China,Male,Propriétaire,Locataire,4,1977-02-21 11:47:46.632931,no
+532,France,Female,Propriétaire,Locataire,3,,yes
+533,USA,Female,Locataire,Locataire,10,1997-12-20 11:47:46.632931,no
+534,China,Female,Locataire,Locataire,1,1973-04-26 11:47:46.632931,no
+535,USA,Male,Locataire,Locataire,1,1986-04-14 11:47:46.632931,yes
+536,USA,Female,Locataire,Propriétaire,8,1981-05-22 11:47:46.632931,yes
+537,France,,Locataire,Locataire,9,1970-11-07 11:47:46.632931,yes
+538,USA,Male,Propriétaire,Propriétaire,3,1983-02-18 11:47:46.632931,yes
+539,USA,Female,Locataire,Locataire,12,1989-01-16 11:47:46.632931,yes
+540,USA,Female,Propriétaire,Locataire,3,1990-02-08 11:47:46.632931,no
+541,USA,Female,Locataire,Propriétaire,4,1978-01-04 11:47:46.632931,yes
+542,USA,Female,Locataire,Locataire,12,1961-09-25 11:47:46.632931,yes
+543,China,Female,Locataire,Locataire,12,1983-05-23 11:47:46.632931,no
+544,China,Male,Locataire,Locataire,1,2001-08-05 11:47:46.632931,no
+545,France,Female,Propriétaire,Locataire,6,1966-07-31 11:47:46.632931,yes
+546,France,Male,Locataire,Locataire,2,,yes
+547,USA,Male,Locataire,Locataire,4,1979-07-03 11:47:46.632931,yes
+548,USA,Female,Propriétaire,Propriétaire,8,1973-10-14 11:47:46.632931,yes
+549,China,Female,Locataire,Propriétaire,9,2001-07-08 11:47:46.632931,no
+550,USA,Female,Locataire,Locataire,8,1979-01-02 11:47:46.632931,yes
+551,USA,Female,Propriétaire,Locataire,9,1992-11-17 11:47:46.632931,yes
+552,France,Female,Locataire,Locataire,3,1992-02-01 11:47:46.632931,no
+553,China,Female,Locataire,Locataire,8,1983-06-25 11:47:46.632931,no
+554,USA,Male,Locataire,Locataire,4,1999-09-15 11:47:46.632931,yes
+555,USA,Female,Locataire,Locataire,5,1969-12-01 11:47:46.632931,yes
+556,France,Male,Locataire,Propriétaire,8,1979-11-14 11:47:46.632931,no
+557,Austria,Female,Locataire,Locataire,7,1956-09-05 11:47:46.632931,no
+558,France,Female,Locataire,Locataire,2,1990-06-09 11:47:46.632931,no
+559,USA,Female,Locataire,Locataire,2,1990-07-29 11:47:46.632931,no
+560,Belgium,Male,Propriétaire,Locataire,5,1989-11-16 11:47:46.632931,yes
+561,USA,Female,Propriétaire,Locataire,7,1900-01-01 11:34:00.000000,yes
+562,USA,,Propriétaire,Locataire,1,1987-06-10 11:47:46.632931,yes
+563,USA,Female,Propriétaire,Locataire,6,1983-08-28 11:47:46.632931,no
+564,China,Female,Locataire,Propriétaire,9,,no
+565,France,Male,Locataire,Locataire,7,,yes
+566,USA,Male,Locataire,Propriétaire,7,1982-02-06 11:47:46.632931,yes
+567,France,Female,Locataire,Locataire,6,1964-12-16 11:47:46.632931,yes
+568,France,Female,Locataire,Locataire,6,2000-08-26 11:47:46.632931,yes
+569,France,Female,Locataire,Propriétaire,7,1998-06-09 11:47:46.632931,yes
+570,France,Female,Locataire,Propriétaire,4,1991-11-10 11:47:46.632931,yes
+571,USA,Female,Locataire,Locataire,2,1989-04-20 11:47:46.632931,no
+572,USA,Female,Locataire,Locataire,6,1992-06-11 11:47:46.632931,yes
+573,Austria,,Propriétaire,Propriétaire,7,1985-04-13 11:47:46.632931,no
+574,China,,Locataire,Propriétaire,9,1987-01-25 11:47:46.632931,no
+575,USA,Male,Locataire,Locataire,6,1966-01-11 11:47:46.632931,no
+576,USA,Male,Locataire,Locataire,6,1992-02-05 11:47:46.632931,yes
+577,France,Female,Locataire,Locataire,4,,yes
+578,USA,,Locataire,Locataire,9,1975-01-22 11:47:46.632931,yes
+579,France,Male,Propriétaire,Locataire,7,1951-11-13 11:47:46.632931,yes
+580,Austria,Female,Locataire,Locataire,3,,yes
+581,USA,Male,Locataire,Locataire,6,,yes
+582,France,Male,Propriétaire,Locataire,1,1986-10-30 11:47:46.632931,yes
+583,France,Female,Locataire,Locataire,6,1974-05-01 11:47:46.632931,yes
+584,USA,Female,Locataire,Locataire,7,,yes
+585,USA,Female,Propriétaire,Propriétaire,8,1995-02-18 11:47:46.632931,yes
+586,Belgium,Female,Locataire,Locataire,11,1980-03-20 11:47:46.632931,no
+587,USA,Male,Locataire,Locataire,6,1987-09-13 11:47:46.632931,yes
+588,USA,Female,Propriétaire,Locataire,9,1997-09-04 11:47:46.632931,yes
+589,USA,Female,Locataire,Locataire,8,1987-05-05 11:47:46.632931,yes
+590,USA,Female,Locataire,Locataire,3,1985-01-19 11:47:46.632931,no
+591,China,Female,Locataire,Locataire,1,1981-08-25 11:47:46.632931,yes
+592,Austria,,Locataire,Locataire,7,1977-05-24 11:47:46.632931,yes
+593,USA,Female,Propriétaire,Propriétaire,1,,no
+594,USA,Male,Propriétaire,Locataire,7,1900-01-01 11:34:00.000000,yes
+595,USA,Female,Locataire,Locataire,5,1964-06-18 11:47:46.632931,no
+596,China,Female,Locataire,Locataire,3,2000-03-11 11:47:46.632931,no
+597,USA,,Locataire,Locataire,8,1989-09-13 11:47:46.632931,yes
+598,USA,Female,Propriétaire,Locataire,7,1981-12-11 11:47:46.632931,yes
+599,China,Female,Locataire,Locataire,4,1979-07-10 11:47:46.632931,no
+4567,USA,Female,Locataire,Locataire,3,,yes
+601,China,Female,Locataire,Locataire,2,1987-03-20 11:47:46.632931,no
+602,China,,Propriétaire,Locataire,6,1991-09-01 11:47:46.632931,no
+603,USA,Male,Locataire,Locataire,8,,yes
+604,USA,Female,Locataire,Locataire,4,1996-10-10 11:47:46.632931,yes
+605,Belgium,Female,Locataire,Locataire,6,1991-08-26 11:47:46.632931,no
+606,USA,Female,Locataire,Locataire,8,1971-06-12 11:47:46.632931,yes
+607,USA,Male,Locataire,Propriétaire,6,1985-04-21 11:47:46.632931,yes
+608,Belgium,Female,Locataire,Locataire,11,1997-02-02 11:47:46.632931,no
+609,USA,Female,Propriétaire,Locataire,5,1966-01-14 11:47:46.632931,yes
+610,France,Male,Locataire,Locataire,1,1979-01-05 11:47:46.632931,yes
+611,China,Male,Locataire,Locataire,5,,no
+612,France,Female,Propriétaire,Locataire,4,2002-07-13 11:47:46.632931,yes
+613,France,,Locataire,Propriétaire,10,1993-08-11 11:47:46.632931,yes
+614,France,Female,Propriétaire,Locataire,1,,yes
+615,France,Male,Locataire,Locataire,6,,yes
+616,France,,Locataire,Propriétaire,4,,yes
+617,France,,Locataire,Propriétaire,6,1992-04-10 11:47:46.632931,no
+618,Belgium,Male,Locataire,Locataire,5,1976-02-01 11:47:46.632931,no
+619,China,Female,Locataire,Locataire,11,,no
+620,USA,Male,Locataire,Propriétaire,5,1979-01-26 11:47:46.632931,no
+621,China,Male,Locataire,Locataire,10,,no
+622,USA,Female,Locataire,Locataire,7,1991-05-14 11:47:46.632931,yes
+623,China,Male,Locataire,Locataire,4,1993-09-30 11:47:46.632931,no
+624,USA,Female,Locataire,Locataire,8,1997-07-13 11:47:46.632931,yes
+625,USA,Male,Locataire,Locataire,10,1974-05-25 11:47:46.632931,yes
+626,France,Female,Locataire,Locataire,3,,yes
+627,China,Female,Locataire,Locataire,11,1900-01-01 11:34:00.000000,no
+628,USA,Female,Locataire,Locataire,8,2001-05-08 11:47:46.632931,no
+629,USA,,Locataire,Propriétaire,6,1976-01-08 11:47:46.632931,yes
+630,USA,Female,Propriétaire,Locataire,7,1997-05-01 11:47:46.632931,no
+631,Belgium,Female,Locataire,Locataire,1,1986-05-10 11:47:46.632931,yes
+632,USA,Female,Locataire,Locataire,1,1999-06-30 11:47:46.632931,yes
+633,France,Male,Locataire,Propriétaire,8,1987-02-24 11:47:46.632931,yes
+634,China,Female,Locataire,Locataire,3,1988-01-22 11:47:46.632931,no
+635,China,Female,Locataire,Locataire,1,1973-07-22 11:47:46.632931,no
+636,USA,,Locataire,Locataire,3,1990-08-21 11:47:46.632931,yes
+637,France,,Locataire,Propriétaire,4,2001-05-17 11:47:46.632931,no
+638,France,Male,Propriétaire,Locataire,4,1980-02-11 11:47:46.632931,no
+639,China,Female,Locataire,Locataire,4,1966-11-07 11:47:46.632931,no
+640,Belgium,Female,Propriétaire,Propriétaire,9,1973-08-28 11:47:46.632931,no
+641,USA,Female,Locataire,Locataire,9,,yes
+642,USA,Female,Locataire,Locataire,4,1964-08-22 11:47:46.632931,yes
+643,France,Male,Propriétaire,Locataire,6,1984-05-09 11:47:46.632931,yes
+644,USA,Female,Propriétaire,Locataire,2,,yes
+645,Austria,Female,Locataire,Propriétaire,5,,yes
+646,France,Male,Propriétaire,Locataire,8,1946-09-09 11:47:46.632931,yes
+647,France,Male,Locataire,Locataire,6,1974-08-02 11:47:46.632931,no
+648,China,Female,Locataire,Locataire,5,1992-01-07 11:47:46.632931,yes
+649,China,Female,Locataire,Locataire,1,1988-07-01 11:47:46.632931,no
+650,Austria,Female,Locataire,Propriétaire,9,1957-01-22 11:47:46.632931,yes
+651,France,Male,Locataire,Locataire,10,,yes
+652,France,Female,Locataire,Locataire,14,1985-05-23 11:47:46.632931,yes
+653,Austria,Male,Locataire,Locataire,6,1949-07-03 11:47:46.632931,yes
+654,France,Female,Propriétaire,Locataire,6,1997-08-02 11:47:46.632931,yes
+655,USA,Female,Locataire,Locataire,1,,no
+656,Belgium,Female,Locataire,Locataire,10,1999-01-01 11:47:46.632931,yes
+657,China,Female,Locataire,Locataire,6,1990-02-17 11:47:46.632931,yes
+658,USA,Female,Propriétaire,Locataire,10,1996-07-05 11:47:46.632931,yes
+659,Austria,Female,Locataire,Locataire,8,1997-03-21 11:47:46.632931,yes
+660,USA,Female,Locataire,Locataire,7,1900-01-01 11:34:00.000000,yes
+661,France,Female,Locataire,Propriétaire,6,1996-04-16 11:47:46.632931,yes
+662,Belgium,Female,Locataire,Locataire,1,,yes
+663,China,Female,Locataire,Locataire,9,2001-11-23 11:47:46.632931,yes
+664,USA,Female,Locataire,Locataire,11,1980-10-29 11:47:46.632931,yes
+665,USA,Female,Locataire,Propriétaire,8,1960-06-18 11:47:46.632931,yes
+666,France,Female,Locataire,Locataire,4,1987-03-08 11:47:46.632931,yes
+667,USA,,Locataire,Locataire,7,1972-04-07 11:47:46.632931,no
+668,France,Female,Locataire,Locataire,8,1995-03-09 11:47:46.632931,yes
+669,China,Male,Propriétaire,Propriétaire,1,2002-04-19 11:47:46.632931,yes
+670,China,,Locataire,Locataire,5,1997-05-09 11:47:46.632931,no
+671,France,,Locataire,Locataire,11,1972-12-31 11:47:46.632931,yes
+672,China,Female,Locataire,Propriétaire,5,1991-12-16 11:47:46.632931,no
+673,USA,Female,Locataire,Locataire,11,,yes
+674,Austria,Male,Locataire,Locataire,4,1990-04-27 11:47:46.632931,yes
+675,China,Male,Locataire,Propriétaire,9,,yes
+676,China,Female,Locataire,Locataire,6,1980-09-02 11:47:46.632931,yes
+677,Austria,,Propriétaire,Locataire,1,1998-03-04 11:47:46.632931,yes
+678,Belgium,Male,Locataire,Propriétaire,7,1988-04-08 11:47:46.632931,yes
+679,USA,Female,Propriétaire,Propriétaire,10,2000-02-18 11:47:46.632931,yes
+680,France,Male,Locataire,Locataire,10,1965-08-23 11:47:46.632931,no
+681,China,Male,Locataire,Locataire,3,1984-10-23 11:47:46.632931,no
+682,China,Female,Locataire,Locataire,5,1988-05-27 11:47:46.632931,no
+683,Austria,Male,Locataire,Locataire,8,1967-07-18 11:47:46.632931,yes
+684,China,Female,Locataire,Propriétaire,8,1982-11-20 11:47:46.632931,yes
+685,Belgium,Female,Locataire,Locataire,8,,no
+686,France,,Locataire,Locataire,6,1981-11-14 11:47:46.632931,yes
+687,China,Female,Locataire,Locataire,7,1985-06-01 11:47:46.632931,no
+688,Belgium,Male,Locataire,Locataire,7,,yes
+689,USA,Female,Locataire,Locataire,2,1995-11-02 11:47:46.632931,yes
+690,France,Female,Locataire,Locataire,4,1999-11-22 11:47:46.632931,yes
+691,Belgium,Female,Locataire,Locataire,4,1987-02-22 11:47:46.632931,yes
+692,China,Male,Locataire,Locataire,8,1991-05-24 11:47:46.632931,no
+693,USA,Female,Locataire,Locataire,3,1900-01-01 11:34:00.000000,yes
+694,USA,Male,Propriétaire,Locataire,5,,yes
+695,USA,Male,Propriétaire,Locataire,3,1963-02-27 11:47:46.632931,yes
+696,Belgium,Female,Locataire,Locataire,3,1986-05-07 11:47:46.632931,no
+697,China,Male,Locataire,Locataire,6,1985-09-01 11:47:46.632931,no
+698,Belgium,Male,Locataire,Locataire,13,2002-03-23 11:47:46.632931,yes
+699,USA,Female,Locataire,Locataire,1,1998-11-16 11:47:46.632931,yes
+700,China,Female,Propriétaire,Locataire,7,1972-11-09 11:47:46.632931,no
+701,China,Male,Locataire,Locataire,1,1967-02-10 11:47:46.632931,no
+702,China,Female,Locataire,Locataire,9,1991-07-20 11:47:46.632931,no
+703,USA,Female,Locataire,Locataire,5,1981-05-08 11:47:46.632931,yes
+704,USA,Male,Propriétaire,Propriétaire,3,,yes
+705,Austria,Female,Locataire,Locataire,5,1992-06-12 11:47:46.632931,yes
+706,France,Male,Locataire,Locataire,4,1989-04-01 11:47:46.632931,no
+707,China,Female,Locataire,Locataire,1,,no
+708,USA,Female,Locataire,Locataire,4,1983-02-18 11:47:46.632931,no
+709,China,Female,Locataire,Locataire,4,1994-07-16 11:47:46.632931,no
+710,Belgium,Female,Propriétaire,Propriétaire,6,1999-10-05 11:47:46.632931,yes
+711,France,Female,Propriétaire,Locataire,7,1970-10-31 11:47:46.632931,yes
+712,USA,Male,Locataire,Locataire,5,1969-11-27 11:47:46.632931,yes
+713,Belgium,,Propriétaire,Locataire,5,1985-04-11 11:47:46.632931,yes
+714,USA,Female,Locataire,Propriétaire,6,,no
+715,Belgium,Female,Locataire,Locataire,1,1985-09-15 11:47:46.632931,yes
+716,USA,Female,Locataire,Locataire,2,1979-12-23 11:47:46.632931,no
+717,USA,,Locataire,Locataire,9,1992-08-12 11:47:46.632931,yes
+718,USA,Female,Propriétaire,Locataire,9,1984-10-10 11:47:46.632931,yes
+719,China,Female,Locataire,Locataire,6,1993-10-02 11:47:46.632931,no
+720,USA,Male,Locataire,Locataire,1,1989-01-27 11:47:46.632931,yes
+721,Austria,Female,Locataire,Locataire,9,1984-04-16 11:47:46.632931,yes
+722,Austria,Female,Propriétaire,Locataire,7,1986-04-24 11:47:46.632931,no
+723,France,Female,Locataire,Locataire,1,1969-06-18 11:47:46.632931,yes
+724,France,,Locataire,Locataire,6,1994-09-29 11:47:46.632931,yes
+725,USA,Female,Locataire,Locataire,6,1967-05-18 11:47:46.632931,yes
+726,France,Female,Locataire,Locataire,8,1900-01-01 11:34:00.000000,yes
+727,Belgium,Female,Locataire,Locataire,7,1979-03-18 11:47:46.632931,yes
+728,China,Female,Locataire,Locataire,7,1971-05-18 11:47:46.632931,yes
+729,Austria,Female,Locataire,Locataire,6,1994-04-12 11:47:46.632931,no
+730,USA,Male,Locataire,Propriétaire,5,2000-03-15 11:47:46.632931,yes
+731,USA,Female,Locataire,Locataire,7,1992-07-25 11:47:46.632931,no
+732,France,Female,Locataire,Locataire,8,1993-09-25 11:47:46.632931,yes
+733,USA,Female,Propriétaire,Locataire,6,,yes
+734,USA,Male,Locataire,Locataire,7,1993-01-31 11:47:46.632931,yes
+735,China,Female,Locataire,Locataire,9,2002-09-07 11:47:46.632931,no
+736,China,Male,Locataire,Locataire,2,,no
+737,France,Female,Locataire,Locataire,10,1961-03-13 11:47:46.632931,yes
+738,USA,Male,Locataire,Locataire,3,1978-10-02 11:47:46.632931,yes
+739,China,Male,Locataire,Locataire,7,1993-02-16 11:47:46.632931,no
+740,USA,Female,Locataire,Propriétaire,4,,yes
+741,USA,,Locataire,Locataire,5,,yes
+742,USA,Female,Propriétaire,Locataire,6,1992-02-24 11:47:46.632931,yes
+743,China,Female,Propriétaire,Locataire,1,1973-05-18 11:47:46.632931,no
+744,USA,,Propriétaire,Locataire,3,,yes
+745,USA,,Propriétaire,Locataire,11,,yes
+746,USA,Female,Locataire,Locataire,6,,yes
+747,China,Male,Locataire,Locataire,10,1982-11-05 11:47:46.632931,no
+748,China,Female,Locataire,Locataire,7,1971-07-16 11:47:46.632931,no
+749,France,Male,Propriétaire,Locataire,2,1991-05-16 11:47:46.632931,yes
+750,Belgium,Female,Locataire,Locataire,4,1986-11-18 11:47:46.632931,yes
+751,China,Female,Locataire,Locataire,1,1977-11-07 11:47:46.632931,no
+752,USA,,Locataire,Locataire,6,2000-12-19 11:47:46.632931,yes
+753,France,Female,Locataire,Locataire,5,1999-12-12 11:47:46.632931,yes
+754,USA,Female,Locataire,Locataire,4,1986-07-02 11:47:46.632931,yes
+755,China,Male,Locataire,Propriétaire,4,1983-03-15 11:47:46.632931,yes
+756,China,Female,Locataire,Locataire,4,1989-06-24 11:47:46.632931,no
+757,China,Male,Locataire,Propriétaire,5,1993-03-22 11:47:46.632931,no
+758,France,Male,Locataire,Propriétaire,5,1988-07-25 11:47:46.632931,yes
+759,Belgium,Female,Locataire,Locataire,6,1900-01-01 11:34:00.000000,yes
+760,France,Female,Locataire,Propriétaire,4,1997-10-25 11:47:46.632931,yes
+761,Belgium,Female,Propriétaire,Locataire,9,1989-12-22 11:47:46.632931,yes
+762,Austria,Male,Locataire,Locataire,4,1978-09-03 11:47:46.632931,yes
+763,USA,Female,Locataire,Locataire,4,1980-07-28 11:47:46.632931,yes
+764,USA,Female,Locataire,Locataire,4,1982-08-19 11:47:46.632931,yes
+765,China,Male,Locataire,Locataire,3,1966-04-29 11:47:46.632931,no
+766,France,Female,Locataire,Locataire,2,,yes
+767,China,Female,Locataire,Propriétaire,1,,no
+768,Belgium,,Locataire,Locataire,8,1995-10-09 11:47:46.632931,yes
+769,China,,Locataire,Locataire,5,2001-12-30 11:47:46.632931,no
+770,China,Female,Locataire,Propriétaire,1,1970-06-27 11:47:46.632931,no
+771,USA,Male,Propriétaire,Propriétaire,8,1980-09-14 11:47:46.632931,no
+772,China,Female,Locataire,Locataire,1,,no
+773,China,Female,Locataire,Locataire,14,1962-03-19 11:47:46.632931,no
+774,Belgium,Female,Locataire,Locataire,6,1986-12-31 11:47:46.632931,yes
+775,USA,Female,Locataire,Locataire,8,1968-10-22 11:47:46.632931,yes
+776,China,Male,Locataire,Propriétaire,5,1965-06-05 11:47:46.632931,no
+777,France,Female,Locataire,Locataire,8,1986-01-19 11:47:46.632931,yes
+778,China,Female,Locataire,Propriétaire,10,1964-02-06 11:47:46.632931,yes
+779,France,,Locataire,Locataire,3,1965-12-13 11:47:46.632931,yes
+780,USA,Male,Locataire,Locataire,6,1976-09-15 11:47:46.632931,yes
+781,USA,Female,Locataire,Locataire,3,,yes
+782,China,Female,Locataire,Locataire,2,1971-01-24 11:47:46.632931,no
+783,China,Female,Locataire,Propriétaire,7,1998-06-30 11:47:46.632931,no
+784,China,Male,Propriétaire,Propriétaire,5,1970-03-15 11:47:46.632931,no
+785,Belgium,Female,Propriétaire,Locataire,6,1988-07-23 11:47:46.632931,no
+786,USA,Male,Locataire,Locataire,6,1988-09-16 11:47:46.632931,yes
+787,China,Female,Locataire,Locataire,3,2001-12-06 11:47:46.632931,no
+788,France,Male,Locataire,Propriétaire,7,1986-10-04 11:47:46.632931,yes
+789,USA,Male,Locataire,Locataire,4,1991-04-24 11:47:46.632931,yes
+790,France,Female,Locataire,Locataire,5,1977-05-03 11:47:46.632931,yes
+791,China,,Locataire,Locataire,4,2000-03-15 11:47:46.632931,no
+792,China,Male,Locataire,Locataire,3,1900-01-01 11:34:00.000000,no
+793,China,Female,Locataire,Locataire,12,,no
+794,France,Female,Locataire,Locataire,4,1990-08-01 11:47:46.632931,yes
+795,Austria,Female,Locataire,Propriétaire,6,1972-05-18 11:47:46.632931,no
+796,China,,Locataire,Locataire,2,1981-07-07 11:47:46.632931,no
+797,USA,Female,Locataire,Locataire,5,,yes
+798,France,Female,Locataire,Locataire,3,1988-09-24 11:47:46.632931,yes
+799,USA,Female,Locataire,Locataire,6,1981-02-13 11:47:46.632931,yes
+800,USA,Male,Propriétaire,Locataire,4,1974-03-03 11:47:46.632931,yes
+801,USA,Female,Locataire,Locataire,4,1982-09-18 11:47:46.632931,no
+802,France,Female,Propriétaire,Propriétaire,4,1972-04-27 11:47:46.632931,yes
+803,USA,Female,Locataire,Locataire,7,,yes
+804,China,Female,Locataire,Locataire,4,1988-06-28 11:47:46.632931,no
+805,France,Female,Locataire,Locataire,7,1994-03-10 11:47:46.632931,yes
+806,Austria,Female,Propriétaire,Locataire,7,1987-04-05 11:47:46.632931,yes
+807,USA,Female,Locataire,Locataire,1,1983-02-21 11:47:46.632931,no
+808,France,Female,Locataire,Locataire,3,1998-03-11 11:47:46.632931,yes
+809,USA,Male,Locataire,Propriétaire,5,1991-08-22 11:47:46.632931,no
+810,France,Male,Propriétaire,Locataire,3,1977-08-08 11:47:46.632931,no
+811,France,Female,Propriétaire,Locataire,9,1983-06-11 11:47:46.632931,yes
+812,Belgium,Female,Locataire,Locataire,1,1961-07-13 11:47:46.632931,yes
+813,China,Female,Locataire,Propriétaire,7,1964-08-06 11:47:46.632931,yes
+814,China,Male,Locataire,Propriétaire,6,1970-02-28 11:47:46.632931,no
+815,France,Female,Locataire,Locataire,8,1973-10-24 11:47:46.632931,yes
+816,Belgium,Female,Locataire,Locataire,9,1994-08-21 11:47:46.632931,yes
+817,China,Female,Locataire,Locataire,1,1975-07-21 11:47:46.632931,no
+818,Belgium,Female,Locataire,Locataire,3,1970-05-23 11:47:46.632931,no
+819,USA,,Locataire,Propriétaire,7,1989-12-31 11:47:46.632931,yes
+820,USA,Male,Locataire,Locataire,2,,yes
+821,China,,Locataire,Locataire,5,1973-08-13 11:47:46.632931,yes
+822,China,Female,Locataire,Locataire,7,1976-12-29 11:47:46.632931,no
+823,China,Female,Propriétaire,Locataire,5,1989-06-25 11:47:46.632931,no
+824,China,Male,Locataire,Propriétaire,10,1990-12-01 11:47:46.632931,no
+825,Austria,,Propriétaire,Locataire,5,1900-01-01 11:34:00.000000,no
+826,China,Male,Locataire,Locataire,3,1991-10-25 11:47:46.632931,no
+827,Austria,Male,Locataire,Propriétaire,6,1987-08-26 11:47:46.632931,yes
+828,USA,Female,Locataire,Locataire,5,1968-12-27 11:47:46.632931,yes
+829,France,,Locataire,Propriétaire,3,1997-04-18 11:47:46.632931,yes
+830,Belgium,Male,Locataire,Locataire,6,1995-05-09 11:47:46.632931,yes
+831,USA,Male,Locataire,Locataire,3,2000-06-27 11:47:46.632931,yes
+832,China,Male,Locataire,Propriétaire,4,1982-11-27 11:47:46.632931,no
+833,USA,Female,Locataire,Locataire,5,1998-10-28 11:47:46.632931,yes
+834,USA,Female,Locataire,Propriétaire,9,1981-05-22 11:47:46.632931,yes
+835,USA,Female,Propriétaire,Locataire,1,1992-07-14 11:47:46.632931,yes
+836,USA,Male,Locataire,Locataire,5,1961-06-03 11:47:46.632931,yes
+837,USA,Male,Locataire,Locataire,6,1960-08-21 11:47:46.632931,yes
+838,Austria,Female,Locataire,Propriétaire,1,1997-12-19 11:47:46.632931,yes
+839,USA,Female,Locataire,Locataire,4,,yes
+840,USA,Male,Locataire,Locataire,11,,yes
+841,Austria,Female,Locataire,Propriétaire,2,1999-05-04 11:47:46.632931,yes
+842,USA,Female,Locataire,Propriétaire,8,1985-09-11 11:47:46.632931,yes
+843,USA,Female,Locataire,Locataire,1,1997-10-23 11:47:46.632931,yes
+844,USA,Female,Locataire,Locataire,6,2001-11-09 11:47:46.632931,no
+845,USA,Male,Locataire,Locataire,10,1967-11-17 11:47:46.632931,yes
+846,China,Female,Locataire,Locataire,2,1990-04-25 11:47:46.632931,no
+847,China,Female,Locataire,Locataire,6,1965-12-08 11:47:46.632931,no
+848,USA,Female,Locataire,Locataire,5,,no
+849,USA,Female,Locataire,Locataire,5,1981-06-09 11:47:46.632931,no
+850,USA,Female,Propriétaire,Locataire,5,,yes
+851,USA,Male,Locataire,Propriétaire,5,1973-05-06 11:47:46.632931,no
+852,China,Male,Locataire,Locataire,3,1995-03-23 11:47:46.632931,no
+853,France,Female,Locataire,Locataire,7,1981-12-06 11:47:46.632931,yes
+854,USA,Female,Locataire,Propriétaire,6,1991-10-08 11:47:46.632931,yes
+855,USA,,Locataire,Locataire,4,,yes
+856,USA,Male,Locataire,Locataire,1,1984-07-28 11:47:46.632931,no
+857,China,Female,Locataire,Locataire,3,1983-07-19 11:47:46.632931,no
+858,France,,Locataire,Locataire,3,1900-01-01 11:34:00.000000,yes
+859,USA,Male,Propriétaire,Propriétaire,9,1979-07-17 11:47:46.632931,yes
+860,USA,Female,Locataire,Locataire,1,1999-02-13 11:47:46.632931,yes
+861,USA,Male,Locataire,Locataire,7,1962-01-18 11:47:46.632931,yes
+862,USA,Female,Propriétaire,Locataire,1,1990-04-01 11:47:46.632931,yes
+863,Austria,Male,Locataire,Locataire,9,1986-08-21 11:47:46.632931,no
+864,USA,,Locataire,Locataire,1,1979-02-28 11:47:46.632931,yes
+865,France,Female,Locataire,Locataire,6,1980-05-11 11:47:46.632931,yes
+866,France,,Locataire,Locataire,10,1996-09-29 11:47:46.632931,no
+867,USA,Female,Locataire,Locataire,6,1959-10-15 11:47:46.632931,yes
+868,USA,Female,Propriétaire,Propriétaire,3,1980-06-04 11:47:46.632931,no
+869,USA,Female,Locataire,Locataire,5,1992-10-04 11:47:46.632931,yes
+870,France,Female,Locataire,Locataire,3,1968-02-02 11:47:46.632931,yes
+871,USA,Female,Locataire,Locataire,8,1973-04-25 11:47:46.632931,yes
+872,France,,Locataire,Locataire,10,1998-11-02 11:47:46.632931,yes
+873,USA,,Propriétaire,Locataire,10,1993-03-28 11:47:46.632931,yes
+874,France,Female,Locataire,Locataire,4,,yes
+875,China,Female,Locataire,Locataire,1,1985-02-23 11:47:46.632931,no
+876,USA,Female,Locataire,Locataire,7,1969-11-11 11:47:46.632931,yes
+877,France,Male,Locataire,Locataire,4,1959-07-09 11:47:46.632931,yes
+878,USA,Male,Propriétaire,Locataire,11,1993-05-13 11:47:46.632931,yes
+879,China,Male,Locataire,Locataire,5,1988-03-22 11:47:46.632931,no
+880,China,Female,Locataire,Locataire,3,2002-05-18 11:47:46.632931,no
+881,USA,Male,Locataire,Locataire,2,1999-02-08 11:47:46.632931,yes
+882,China,Female,Locataire,Propriétaire,7,2001-08-14 11:47:46.632931,no
+883,China,Female,Locataire,Locataire,3,1993-02-26 11:47:46.632931,no
+884,China,Female,Propriétaire,Propriétaire,5,1974-10-25 11:47:46.632931,no
+885,China,Female,Propriétaire,Locataire,3,1985-10-06 11:47:46.632931,no
+886,USA,Female,Locataire,Locataire,8,1989-04-16 11:47:46.632931,yes
+887,Austria,Male,Locataire,Locataire,9,1996-11-26 11:47:46.632931,yes
+888,USA,Female,Locataire,Locataire,11,1991-06-17 11:47:46.632931,yes
+889,France,Female,Propriétaire,Locataire,4,1970-01-01 11:47:46.632931,yes
+890,USA,Male,Locataire,Locataire,6,,yes
+891,USA,Male,Locataire,Propriétaire,3,1900-01-01 11:34:00.000000,no
+892,China,Female,Locataire,Locataire,4,,no
+893,France,Male,Locataire,Propriétaire,4,1995-12-15 11:47:46.632931,yes
+894,France,Female,Locataire,Locataire,6,2002-11-14 11:47:46.632931,yes
+895,USA,Female,Propriétaire,Locataire,7,1997-09-08 11:47:46.632931,yes
+896,France,Male,Propriétaire,Propriétaire,3,,yes
+897,Belgium,Male,Propriétaire,Locataire,1,1976-09-25 11:47:46.632931,yes
+898,USA,Female,Locataire,Locataire,7,1996-02-22 11:47:46.632931,yes
+899,Austria,Male,Locataire,Locataire,9,1981-03-07 11:47:46.632931,yes
+4567,USA,Female,Locataire,Locataire,8,1984-07-31 11:47:46.632931,yes
+901,France,Male,Locataire,Locataire,4,1976-11-14 11:47:46.632931,yes
+902,China,Female,Locataire,Locataire,8,1987-06-04 11:47:46.632931,no
+903,China,Female,Locataire,Propriétaire,7,1973-04-23 11:47:46.632931,no
+904,USA,Female,Locataire,Locataire,6,1984-09-25 11:47:46.632931,yes
+905,USA,Female,Locataire,Locataire,8,1954-04-07 11:47:46.632931,no
+906,France,Male,Locataire,Locataire,1,1969-07-24 11:47:46.632931,yes
+907,China,Female,Propriétaire,Locataire,6,,no
+908,France,Male,Locataire,Locataire,5,,yes
+909,China,Female,Propriétaire,Locataire,5,1983-08-12 11:47:46.632931,no
+910,USA,Female,Locataire,Propriétaire,5,1970-02-06 11:47:46.632931,yes
+911,China,Female,Propriétaire,Locataire,5,2000-12-19 11:47:46.632931,no
+912,China,Female,Propriétaire,Locataire,7,1987-05-10 11:47:46.632931,no
+913,USA,Female,Locataire,Locataire,3,1996-04-02 11:47:46.632931,yes
+914,Austria,Male,Propriétaire,Propriétaire,5,,yes
+915,China,Female,Locataire,Propriétaire,4,1970-05-26 11:47:46.632931,no
+916,USA,Female,Propriétaire,Locataire,2,1989-01-12 11:47:46.632931,yes
+917,China,Female,Locataire,Locataire,14,1974-06-18 11:47:46.632931,no
+918,USA,Female,Locataire,Locataire,8,1973-03-27 11:47:46.632931,yes
+919,China,Female,Locataire,Locataire,12,1999-05-05 11:47:46.632931,no
+920,China,Female,Locataire,Locataire,6,1980-08-27 11:47:46.632931,yes
+921,USA,,Locataire,Propriétaire,7,1963-03-25 11:47:46.632931,yes
+922,China,,Locataire,Propriétaire,5,1967-12-08 11:47:46.632931,yes
+923,USA,Female,Locataire,Locataire,7,,yes
+924,China,Female,Locataire,Locataire,9,1900-01-01 11:34:00.000000,no
+925,Belgium,Male,Locataire,Locataire,1,1956-10-04 11:47:46.632931,yes
+926,China,Male,Locataire,Propriétaire,4,1989-10-13 11:47:46.632931,no
+927,China,Male,Propriétaire,Locataire,6,1969-12-21 11:47:46.632931,no
+928,France,Female,Locataire,Locataire,4,1974-05-04 11:47:46.632931,yes
+929,France,Female,Propriétaire,Locataire,8,1967-06-26 11:47:46.632931,yes
+930,USA,Female,Propriétaire,Locataire,9,1973-06-18 11:47:46.632931,yes
+931,France,Male,Locataire,Locataire,7,1984-05-27 11:47:46.632931,yes
+932,USA,Male,Locataire,Locataire,2,,yes
+933,China,,Propriétaire,Propriétaire,4,1987-07-05 11:47:46.632931,no
+934,USA,Female,Locataire,Locataire,9,1995-02-22 11:47:46.632931,no
+935,France,Female,Locataire,Locataire,8,1987-03-31 11:47:46.632931,yes
+936,China,Female,Propriétaire,Locataire,6,1971-04-18 11:47:46.632931,yes
+937,USA,Male,Locataire,Locataire,6,1987-02-09 11:47:46.632931,yes
+938,Belgium,Female,Locataire,Locataire,8,,no
+939,China,,Locataire,Propriétaire,1,1991-10-12 11:47:46.632931,yes
+940,USA,Male,Propriétaire,Locataire,1,1989-02-16 11:47:46.632931,yes
+941,USA,Female,Locataire,Propriétaire,6,1990-04-05 11:47:46.632931,yes
+942,France,Female,Locataire,Locataire,8,1989-08-14 11:47:46.632931,yes
+943,France,Female,Propriétaire,Locataire,4,1968-07-15 11:47:46.632931,yes
+944,USA,Female,Locataire,Locataire,5,1977-01-26 11:47:46.632931,yes
+945,China,Male,Locataire,Locataire,7,1981-11-16 11:47:46.632931,no
+946,China,Male,Locataire,Locataire,9,1979-11-20 11:47:46.632931,no
+947,USA,Male,Locataire,Locataire,6,1994-06-01 11:47:46.632931,yes
+948,China,Male,Locataire,Propriétaire,7,1987-05-13 11:47:46.632931,no
+949,Belgium,Female,Propriétaire,Locataire,3,,yes
+950,France,Female,Propriétaire,Locataire,1,2000-06-10 11:47:46.632931,yes
+951,France,Female,Locataire,Locataire,6,1983-11-11 11:47:46.632931,yes
+952,France,Female,Locataire,Locataire,6,1951-01-13 11:47:46.632931,yes
+953,USA,Male,Locataire,Propriétaire,3,1970-01-17 11:47:46.632931,yes
+954,Austria,Male,Propriétaire,Locataire,4,1983-10-23 11:47:46.632931,yes
+955,USA,Male,Locataire,Locataire,2,,yes
+956,China,Female,Propriétaire,Locataire,4,1995-05-12 11:47:46.632931,no
+957,France,Female,Propriétaire,Propriétaire,7,1900-01-01 11:34:00.000000,no
+958,France,Female,Locataire,Locataire,6,1971-10-11 11:47:46.632931,yes
+959,USA,Male,Locataire,Propriétaire,3,1980-11-13 11:47:46.632931,no
+960,USA,Female,Propriétaire,Propriétaire,3,1979-07-03 11:47:46.632931,no
+961,France,,Locataire,Locataire,10,1992-08-10 11:47:46.632931,yes
+962,China,Female,Locataire,Locataire,7,1963-07-29 11:47:46.632931,yes
+963,USA,Male,Locataire,Locataire,2,1977-09-01 11:47:46.632931,yes
+964,USA,Female,Locataire,Locataire,5,1971-05-08 11:47:46.632931,yes
+965,France,,Locataire,Propriétaire,4,1991-01-04 11:47:46.632931,yes
+966,France,,Locataire,Locataire,6,1967-03-12 11:47:46.632931,yes
+967,China,Male,Locataire,Locataire,8,1989-11-09 11:47:46.632931,no
+968,USA,Male,Locataire,Propriétaire,2,,yes
+969,Belgium,Female,Propriétaire,Propriétaire,2,1995-10-23 11:47:46.632931,no
+970,USA,Female,Locataire,Locataire,4,1989-11-08 11:47:46.632931,yes
+971,China,Female,Propriétaire,Locataire,6,1989-12-05 11:47:46.632931,no
+972,Austria,,Locataire,Locataire,1,1999-12-03 11:47:46.632931,yes
+973,Belgium,Female,Propriétaire,Propriétaire,5,1975-09-07 11:47:46.632931,yes
+974,Belgium,Female,Locataire,Locataire,1,1997-08-06 11:47:46.632931,yes
+975,China,Female,Locataire,Locataire,6,1992-05-06 11:47:46.632931,no
+976,Austria,Female,Locataire,Locataire,8,1989-04-03 11:47:46.632931,yes
+977,USA,Female,Propriétaire,Locataire,2,1977-01-07 11:47:46.632931,yes
+978,China,Female,Locataire,Locataire,5,1983-02-05 11:47:46.632931,no
+979,China,Male,Propriétaire,Locataire,4,1966-05-23 11:47:46.632931,no
+980,USA,Female,Locataire,Locataire,4,1963-10-29 11:47:46.632931,no
+981,France,Female,Locataire,Locataire,2,1985-09-30 11:47:46.632931,yes
+982,USA,Male,Propriétaire,Locataire,3,1966-10-26 11:47:46.632931,yes
+983,USA,Female,Locataire,Locataire,3,,no
+984,USA,Female,Locataire,Locataire,3,1998-01-24 11:47:46.632931,no
+985,USA,Male,Locataire,Locataire,3,,no
+986,France,Female,Locataire,Locataire,3,,yes
+987,Austria,Male,Locataire,Locataire,2,1991-04-23 11:47:46.632931,yes
+988,USA,Female,Propriétaire,Propriétaire,5,1992-10-09 11:47:46.632931,yes
+989,France,Female,Locataire,Locataire,3,1988-05-05 11:47:46.632931,yes
+990,USA,Female,Locataire,Locataire,7,1900-01-01 11:34:00.000000,yes
+991,Austria,Female,Propriétaire,Locataire,5,,yes
+992,USA,Female,Locataire,Locataire,9,1997-12-02 11:47:46.632931,yes
+993,Belgium,Male,Locataire,Locataire,6,1972-09-18 11:47:46.632931,no
+994,USA,Female,Locataire,Locataire,9,2003-02-11 11:47:46.632931,no
+995,USA,Male,Locataire,Locataire,4,1975-12-14 11:47:46.632931,yes
+996,USA,Female,Propriétaire,Propriétaire,8,1961-05-31 11:47:46.632931,yes
+997,China,Female,Propriétaire,Propriétaire,8,1984-09-23 11:47:46.632931,no
+998,Belgium,Male,Locataire,Locataire,9,1999-06-12 11:47:46.632931,yes
+999,Austria,Male,Locataire,Propriétaire,1,1975-11-11 11:47:46.632931,yes
+1000,Belgium,,Locataire,Locataire,8,,yes
+1001,USA,Female,Locataire,Locataire,8,1981-09-22 11:47:46.632931,no
+1002,Belgium,Female,Locataire,Locataire,5,,yes
+1003,China,Male,Locataire,Locataire,6,,no
+1004,USA,,Locataire,Locataire,4,1975-10-16 11:47:46.632931,yes
+1005,China,Female,Locataire,Locataire,2,1993-05-29 11:47:46.632931,no
+1006,China,Female,Locataire,Propriétaire,3,1979-11-03 11:47:46.632931,no
+1007,Austria,Male,Propriétaire,Locataire,6,1984-10-12 11:47:46.632931,yes
+1008,Belgium,Male,Propriétaire,Locataire,1,1956-09-07 11:47:46.632931,no
+1009,USA,Male,Locataire,Locataire,5,,yes
+1010,China,Female,Locataire,Locataire,2,1980-11-02 11:47:46.632931,no
+1011,Belgium,Male,Locataire,Locataire,9,1966-01-02 11:47:46.632931,no
+1012,China,Female,Locataire,Locataire,5,1981-12-16 11:47:46.632931,no
+1013,France,Female,Locataire,Locataire,10,1971-05-19 11:47:46.632931,yes
+1014,Austria,Male,Locataire,Locataire,7,1985-05-18 11:47:46.632931,yes
+1015,China,Female,Locataire,Locataire,1,1988-07-26 11:47:46.632931,no
+1016,USA,,Propriétaire,Locataire,4,1978-06-18 11:47:46.632931,yes
+1017,China,Female,Locataire,Locataire,8,1975-08-11 11:47:46.632931,no
+1018,France,Male,Locataire,Locataire,1,,yes
+1019,USA,Female,Propriétaire,Locataire,3,,yes
+1020,China,Female,Propriétaire,Locataire,10,1992-01-31 11:47:46.632931,no
+1021,Austria,Female,Locataire,Locataire,6,1967-01-01 11:47:46.632931,yes
+1022,USA,Female,Locataire,Locataire,5,1982-05-15 11:47:46.632931,yes
+1023,China,,Locataire,Locataire,11,1900-01-01 11:34:00.000000,no
+1024,China,Female,Propriétaire,Locataire,1,1986-08-28 11:47:46.632931,yes
+1025,China,Female,Locataire,Locataire,5,1970-07-12 11:47:46.632931,yes
+1026,China,Male,Propriétaire,Propriétaire,9,1969-12-31 11:47:46.632931,no
+1027,USA,,Locataire,Propriétaire,7,1992-06-12 11:47:46.632931,yes
+1028,France,Female,Locataire,Propriétaire,9,1992-09-21 11:47:46.632931,yes
+1029,Belgium,Female,Locataire,Locataire,3,,yes
+1030,USA,Female,Propriétaire,Propriétaire,7,1946-03-22 11:47:46.632931,no
+1031,China,,Locataire,Locataire,4,1976-02-25 11:47:46.632931,no
+1032,USA,Female,Locataire,Locataire,4,1984-05-13 11:47:46.632931,no
+1033,USA,Female,Locataire,Locataire,4,1978-09-02 11:47:46.632931,no
+1034,France,Female,Locataire,Locataire,11,,no
+1035,USA,Male,Locataire,Locataire,2,1984-10-08 11:47:46.632931,yes
+1036,Belgium,Female,Locataire,Locataire,7,1995-02-17 11:47:46.632931,no
+1037,France,Female,Locataire,Locataire,1,1965-07-16 11:47:46.632931,yes
+1038,China,Female,Locataire,Locataire,1,1991-10-07 11:47:46.632931,no
+1039,China,Male,Locataire,Propriétaire,7,1979-06-17 11:47:46.632931,no
+1040,USA,Male,Propriétaire,Locataire,4,1982-08-25 11:47:46.632931,yes
+1041,China,Female,Locataire,Propriétaire,9,1981-10-25 11:47:46.632931,yes
+1042,Belgium,,Locataire,Locataire,3,1990-07-12 11:47:46.632931,no
+1043,France,Female,Propriétaire,Locataire,3,1984-03-12 11:47:46.632931,yes
+1044,USA,Female,Locataire,Propriétaire,7,,no
+1045,France,Female,Locataire,Propriétaire,7,1989-09-19 11:47:46.632931,yes
+1046,USA,Female,Locataire,Locataire,10,1978-10-09 11:47:46.632931,yes
+1047,France,Female,Locataire,Propriétaire,2,,yes
+1048,USA,Male,Propriétaire,Locataire,4,1992-06-25 11:47:46.632931,yes
+1049,Austria,Female,Locataire,Locataire,7,2002-03-07 11:47:46.632931,yes
+1050,USA,Male,Locataire,Locataire,10,1979-05-10 11:47:46.632931,yes
+1051,USA,Female,Propriétaire,Locataire,5,2003-01-23 11:47:46.632931,yes
+1052,France,Male,Propriétaire,Locataire,6,1976-07-14 11:47:46.632931,yes
+1053,China,Female,Locataire,Propriétaire,10,1991-07-22 11:47:46.632931,no
+1054,China,Male,Locataire,Locataire,9,1977-09-29 11:47:46.632931,no
+1055,USA,Male,Propriétaire,Locataire,5,1974-08-21 11:47:46.632931,yes
+1056,USA,,Locataire,Propriétaire,5,1900-01-01 11:34:00.000000,yes
+1057,Belgium,Male,Propriétaire,Locataire,6,1983-04-30 11:47:46.632931,yes
+1058,France,,Locataire,Locataire,5,1981-09-24 11:47:46.632931,yes
+1059,China,Male,Locataire,Locataire,5,1977-10-11 11:47:46.632931,no
+1060,France,,Locataire,Propriétaire,14,1998-09-24 11:47:46.632931,yes
+1061,France,Male,Locataire,Locataire,5,1980-01-20 11:47:46.632931,yes
+1062,USA,Female,Propriétaire,Locataire,9,1990-07-07 11:47:46.632931,yes
+1063,China,Female,Locataire,Locataire,7,1980-07-31 11:47:46.632931,no
+1064,USA,Female,Propriétaire,Locataire,7,1992-01-06 11:47:46.632931,no
+1065,USA,Female,Locataire,Locataire,4,,yes
+1066,USA,Male,Locataire,Locataire,1,,yes
+1067,France,Female,Propriétaire,Locataire,6,1969-06-23 11:47:46.632931,yes
+1068,USA,Female,Propriétaire,Propriétaire,5,1991-06-25 11:47:46.632931,yes
+1069,China,Male,Locataire,Locataire,1,1998-05-21 11:47:46.632931,no
+1070,France,Female,Locataire,Propriétaire,4,1980-03-31 11:47:46.632931,yes
+1071,USA,Female,Propriétaire,Locataire,1,1989-03-01 11:47:46.632931,yes
+1072,Austria,Female,Locataire,Locataire,6,1979-05-26 11:47:46.632931,yes
+1073,USA,Male,Locataire,Locataire,2,1990-08-08 11:47:46.632931,yes
+1074,USA,Male,Locataire,Propriétaire,10,2001-05-17 11:47:46.632931,yes
+1075,USA,Female,Locataire,Locataire,4,1986-06-04 11:47:46.632931,yes
+1076,France,Male,Locataire,Propriétaire,8,1980-12-26 11:47:46.632931,yes
+1077,France,Female,Locataire,Locataire,12,1988-12-15 11:47:46.632931,no
+1078,USA,Male,Propriétaire,Locataire,2,1984-03-02 11:47:46.632931,yes
+1079,China,Female,Locataire,Propriétaire,4,1991-06-13 11:47:46.632931,no
+1080,USA,Female,Locataire,Locataire,6,1971-03-24 11:47:46.632931,yes
+1081,China,Male,Locataire,Locataire,6,1990-03-13 11:47:46.632931,no
+1082,China,,Locataire,Locataire,5,2002-09-05 11:47:46.632931,no
+1083,USA,Female,Locataire,Propriétaire,2,,yes
+1084,France,,Locataire,Locataire,6,1989-01-02 11:47:46.632931,yes
+1085,USA,Female,Locataire,Locataire,3,1965-06-16 11:47:46.632931,yes
+1086,France,,Locataire,Locataire,1,1978-03-27 11:47:46.632931,no
+1087,China,,Locataire,Locataire,7,2002-07-25 11:47:46.632931,no
+1088,USA,Female,Locataire,Locataire,7,1955-05-07 11:47:46.632931,yes
+1089,France,Female,Locataire,Locataire,8,1900-01-01 11:34:00.000000,yes
+1090,USA,Female,Locataire,Locataire,8,2002-07-05 11:47:46.632931,no
+1091,USA,Female,Locataire,Propriétaire,4,1970-10-03 11:47:46.632931,yes
+1092,China,Male,Locataire,Locataire,4,1974-12-06 11:47:46.632931,no
+1093,Austria,Male,Locataire,Locataire,4,1986-08-19 11:47:46.632931,yes
+1094,USA,Female,Locataire,Propriétaire,5,1985-09-09 11:47:46.632931,yes
+1095,USA,Male,Locataire,Locataire,4,1994-02-08 11:47:46.632931,yes
+1096,France,Male,Propriétaire,Locataire,7,1983-10-13 11:47:46.632931,yes
+1097,China,Female,Locataire,Locataire,7,,no
+1098,USA,Male,Propriétaire,Locataire,1,1960-06-25 11:47:46.632931,yes
+1099,Austria,Male,Locataire,Propriétaire,6,2002-11-19 11:47:46.632931,yes
+1100,USA,Male,Propriétaire,Locataire,5,2003-01-04 11:47:46.632931,no
+1101,USA,Female,Locataire,Locataire,9,1985-08-16 11:47:46.632931,yes
+1102,USA,Female,Locataire,Locataire,4,1964-01-27 11:47:46.632931,yes
+1103,China,Female,Locataire,Locataire,5,1990-10-12 11:47:46.632931,yes
+1104,France,,Locataire,Locataire,2,1979-07-15 11:47:46.632931,no
+1105,USA,Female,Propriétaire,Locataire,4,1988-02-15 11:47:46.632931,yes
+1106,China,Female,Locataire,Propriétaire,5,1995-07-23 11:47:46.632931,no
+1107,USA,Male,Locataire,Locataire,7,1983-07-15 11:47:46.632931,no
+1108,China,Female,Locataire,Locataire,6,1983-03-14 11:47:46.632931,no
+1109,China,Male,Locataire,Locataire,3,1987-01-17 11:47:46.632931,no
+1110,Belgium,Male,Locataire,Locataire,5,1984-11-10 11:47:46.632931,yes
+1111,USA,,Locataire,Locataire,6,,yes
+1112,France,Female,Propriétaire,Locataire,7,,yes
+1113,USA,Female,Locataire,Propriétaire,6,1991-07-05 11:47:46.632931,yes
+1114,France,Female,Locataire,Propriétaire,2,1983-06-16 11:47:46.632931,yes
+1115,China,Female,Locataire,Locataire,4,,no
+1116,China,Female,Locataire,Locataire,8,1989-01-15 11:47:46.632931,no
+1117,USA,Male,Locataire,Locataire,6,1988-11-30 11:47:46.632931,yes
+1118,USA,Female,Propriétaire,Propriétaire,5,1988-12-11 11:47:46.632931,yes
+1119,Belgium,Female,Propriétaire,Locataire,2,2002-08-02 11:47:46.632931,yes
+1120,USA,Female,Locataire,Locataire,4,1983-10-03 11:47:46.632931,yes
+1121,China,,Propriétaire,Locataire,7,1998-06-04 11:47:46.632931,no
+1122,China,Male,Locataire,Locataire,7,1900-01-01 11:34:00.000000,no
+1123,China,Female,Locataire,Locataire,7,1978-10-31 11:47:46.632931,no
+1124,Austria,,Locataire,Propriétaire,7,1983-05-18 11:47:46.632931,yes
+1125,USA,Female,Propriétaire,Locataire,7,,yes
+1126,Belgium,Female,Locataire,Locataire,5,1987-04-12 11:47:46.632931,no
+1127,Belgium,Female,Locataire,Locataire,5,1981-08-08 11:47:46.632931,no
+1128,USA,Male,Locataire,Locataire,9,1976-05-09 11:47:46.632931,yes
+1129,China,Female,Locataire,Locataire,1,2001-09-03 11:47:46.632931,no
+1130,Belgium,Female,Locataire,Locataire,9,1987-05-22 11:47:46.632931,yes
+1131,USA,Female,Locataire,Locataire,4,,yes
+1132,China,Female,Locataire,Propriétaire,9,,no
+1133,USA,Male,Locataire,Locataire,3,1996-08-21 11:47:46.632931,yes
+1134,China,Female,Propriétaire,Locataire,4,1992-08-30 11:47:46.632931,no
+1135,France,Female,Locataire,Locataire,6,1975-06-01 11:47:46.632931,yes
+1136,China,Female,Locataire,Propriétaire,5,2002-04-12 11:47:46.632931,no
+1137,China,,Locataire,Locataire,5,,no
+1138,China,Female,Locataire,Locataire,4,1997-11-12 11:47:46.632931,no
+1139,Austria,Male,Locataire,Locataire,7,1970-08-23 11:47:46.632931,yes
+1140,Belgium,Female,Locataire,Propriétaire,8,1971-01-30 11:47:46.632931,yes
+1141,France,Female,Locataire,Propriétaire,8,1997-02-25 11:47:46.632931,yes
+1142,USA,Male,Locataire,Locataire,3,1977-06-08 11:47:46.632931,yes
+1143,USA,Male,Locataire,Locataire,6,1988-07-17 11:47:46.632931,yes
+1144,China,Female,Locataire,Locataire,7,,no
+1145,USA,Male,Locataire,Locataire,6,1987-11-02 11:47:46.632931,yes
+1146,Belgium,Male,Locataire,Locataire,4,1991-05-02 11:47:46.632931,yes
+1147,USA,Female,Locataire,Locataire,7,1994-12-17 11:47:46.632931,yes
+1148,France,Female,Locataire,Locataire,6,1979-02-20 11:47:46.632931,yes
+1149,Belgium,Female,Locataire,Locataire,1,1997-08-24 11:47:46.632931,no
+1150,China,Male,Propriétaire,Locataire,8,1984-03-31 11:47:46.632931,no
+1151,France,,Locataire,Locataire,7,1977-08-04 11:47:46.632931,no
+1152,China,Female,Locataire,Locataire,8,1980-07-20 11:47:46.632931,no
+1153,China,,Locataire,Locataire,1,2001-06-15 11:47:46.632931,no
+1154,USA,Female,Locataire,Propriétaire,4,1993-07-21 11:47:46.632931,yes
+1155,USA,Female,Propriétaire,Locataire,1,1900-01-01 11:34:00.000000,yes
+1156,China,,Locataire,Locataire,10,1986-03-10 11:47:46.632931,yes
+1157,USA,Female,Locataire,Locataire,3,2000-05-06 11:47:46.632931,no
+1158,USA,Male,Propriétaire,Locataire,6,1986-08-15 11:47:46.632931,yes
+1159,Belgium,Female,Locataire,Propriétaire,5,1968-12-03 11:47:46.632931,yes
+1160,France,Male,Propriétaire,Propriétaire,5,1993-06-15 11:47:46.632931,yes
+1161,USA,Male,Locataire,Propriétaire,10,1986-06-12 11:47:46.632931,no
+1162,China,Female,Locataire,Propriétaire,5,1966-10-30 11:47:46.632931,no
+1163,USA,Female,Locataire,Propriétaire,6,1979-05-23 11:47:46.632931,yes
+1164,France,Female,Locataire,Locataire,12,1969-10-26 11:47:46.632931,yes
+1165,USA,Male,Locataire,Locataire,7,1966-11-07 11:47:46.632931,yes
+1166,China,Male,Locataire,Locataire,1,1951-08-29 11:47:46.632931,no
+1167,China,Male,Locataire,Locataire,5,1978-09-28 11:47:46.632931,no
+1168,China,Male,Propriétaire,Propriétaire,6,1975-03-20 11:47:46.632931,no
+1169,China,Male,Propriétaire,Propriétaire,1,1964-01-01 11:47:46.632931,yes
+1170,USA,Male,Locataire,Propriétaire,3,1991-09-19 11:47:46.632931,no
+1171,China,Female,Locataire,Locataire,8,1958-02-22 11:47:46.632931,yes
+1172,China,Female,Propriétaire,Propriétaire,2,1978-11-22 11:47:46.632931,no
+1173,USA,Female,Locataire,Propriétaire,3,,no
+1174,USA,Female,Locataire,Locataire,5,1973-03-18 11:47:46.632931,no
+1175,USA,Female,Propriétaire,Locataire,6,1996-10-04 11:47:46.632931,yes
+1176,France,Female,Locataire,Locataire,6,1991-07-04 11:47:46.632931,yes
+1177,China,Female,Propriétaire,Propriétaire,8,1995-05-10 11:47:46.632931,yes
+1178,Belgium,Male,Locataire,Locataire,1,1988-04-14 11:47:46.632931,yes
+1179,France,Female,Propriétaire,Locataire,2,1988-01-16 11:47:46.632931,yes
+1180,China,Female,Locataire,Propriétaire,1,1987-03-17 11:47:46.632931,yes
+1181,Austria,Female,Locataire,Locataire,4,1995-09-01 11:47:46.632931,yes
+1182,China,Female,Propriétaire,Locataire,9,,yes
+1183,USA,Female,Locataire,Locataire,6,1975-02-13 11:47:46.632931,yes
+1184,France,Male,Locataire,Locataire,6,1988-12-24 11:47:46.632931,yes
+1185,USA,Male,Locataire,Locataire,6,1997-02-28 11:47:46.632931,no
+1186,France,Male,Locataire,Locataire,7,1989-06-11 11:47:46.632931,no
+1187,China,Male,Locataire,Locataire,1,1981-10-23 11:47:46.632931,no
+1188,France,Female,Locataire,Propriétaire,5,1900-01-01 11:34:00.000000,no
+1189,China,Male,Locataire,Propriétaire,6,1987-07-13 11:47:46.632931,no
+1190,USA,Female,Locataire,Locataire,2,1974-12-12 11:47:46.632931,yes
+1191,USA,,Locataire,Locataire,5,1991-10-18 11:47:46.632931,yes
+1192,China,Male,Propriétaire,Locataire,4,1996-05-12 11:47:46.632931,no
+1193,China,Female,Locataire,Locataire,7,,no
+1194,USA,Male,Locataire,Locataire,4,1957-03-10 11:47:46.632931,yes
+1195,USA,Female,Locataire,Locataire,1,1994-04-21 11:47:46.632931,yes
+1196,China,Female,Propriétaire,Locataire,9,1950-06-24 11:47:46.632931,no
+1197,Belgium,Female,Locataire,Locataire,4,1983-06-11 11:47:46.632931,no
+1198,USA,Female,Locataire,Locataire,3,1978-10-25 11:47:46.632931,yes
+1199,USA,Male,Locataire,Locataire,3,1989-06-19 11:47:46.632931,yes
+4567,France,Female,Locataire,Locataire,6,1950-03-13 11:47:46.632931,yes
+1201,USA,Female,Locataire,Propriétaire,5,1965-08-22 11:47:46.632931,yes
+1202,France,Female,Locataire,Locataire,2,1988-06-14 11:47:46.632931,no
+1203,USA,Female,Locataire,Locataire,6,1970-01-04 11:47:46.632931,yes
+1204,USA,Female,Locataire,Locataire,7,1991-08-23 11:47:46.632931,yes
+1205,USA,Female,Locataire,Locataire,8,,no
+1206,USA,Female,Locataire,Propriétaire,8,1984-09-27 11:47:46.632931,yes
+1207,China,Male,Locataire,Propriétaire,3,1978-03-02 11:47:46.632931,no
+1208,Belgium,Male,Locataire,Locataire,8,2000-12-27 11:47:46.632931,yes
+1209,China,Female,Locataire,Propriétaire,6,1979-05-13 11:47:46.632931,yes
+1210,USA,Female,Locataire,Locataire,3,2000-11-06 11:47:46.632931,yes
+1211,USA,Female,Propriétaire,Locataire,3,1947-03-29 11:47:46.632931,yes
+1212,USA,Female,Locataire,Locataire,3,,yes
+1213,China,Male,Locataire,Propriétaire,4,1985-07-24 11:47:46.632931,no
+1214,Belgium,,Locataire,Locataire,5,1994-05-27 11:47:46.632931,yes
+1215,Belgium,Male,Locataire,Propriétaire,8,1986-11-12 11:47:46.632931,yes
+1216,USA,,Locataire,Locataire,3,1965-03-31 11:47:46.632931,yes
+1217,USA,Male,Locataire,Locataire,8,1977-03-28 11:47:46.632931,no
+1218,USA,Male,Locataire,Locataire,8,,yes
+1219,France,Female,Locataire,Locataire,6,1993-01-11 11:47:46.632931,yes
+1220,China,Male,Locataire,Propriétaire,6,1979-10-16 11:47:46.632931,no
+1221,China,Male,Locataire,Locataire,11,1900-01-01 11:34:00.000000,no
+1222,France,Female,Locataire,Locataire,11,1984-05-24 11:47:46.632931,yes
+1223,China,Female,Propriétaire,Locataire,4,,yes
+1224,France,,Locataire,Propriétaire,12,1987-12-20 11:47:46.632931,yes
+1225,USA,Female,Propriétaire,Locataire,3,1970-11-15 11:47:46.632931,yes
+1226,France,Male,Locataire,Locataire,5,1976-09-20 11:47:46.632931,no
+1227,China,Female,Locataire,Locataire,1,1974-07-11 11:47:46.632931,no
+1228,Belgium,Female,Locataire,Locataire,7,,no
+1229,USA,Male,Locataire,Locataire,1,1997-01-04 11:47:46.632931,yes
+1230,USA,Female,Locataire,Locataire,4,,yes
+1231,USA,Female,Locataire,Locataire,4,2000-11-23 11:47:46.632931,yes
+1232,China,Female,Locataire,Locataire,5,,no
+1233,China,Female,Propriétaire,Locataire,11,1985-04-12 11:47:46.632931,no
+1234,China,Female,Locataire,Locataire,4,1984-07-25 11:47:46.632931,yes
+1235,France,,Locataire,Locataire,11,1984-12-28 11:47:46.632931,yes
+1236,China,Male,Propriétaire,Locataire,3,1984-07-29 11:47:46.632931,no
+1237,USA,Female,Propriétaire,Locataire,12,,no
+1238,USA,Female,Locataire,Locataire,5,1980-12-26 11:47:46.632931,yes
+1239,USA,Female,Locataire,Locataire,6,1989-12-16 11:47:46.632931,yes
+1240,China,Male,Propriétaire,Propriétaire,8,1996-03-15 11:47:46.632931,no
+1241,China,Male,Locataire,Locataire,6,1977-03-18 11:47:46.632931,no
+1242,USA,Male,Locataire,Locataire,10,1977-07-09 11:47:46.632931,yes
+1243,China,Male,Locataire,Locataire,9,1987-01-20 11:47:46.632931,no
+1244,USA,Female,Locataire,Locataire,3,1987-04-14 11:47:46.632931,yes
+1245,China,Female,Locataire,Locataire,7,1987-06-20 11:47:46.632931,no
+1246,France,Female,Locataire,Propriétaire,7,,yes
+1247,Austria,Female,Locataire,Locataire,7,1972-12-02 11:47:46.632931,yes
+1248,USA,Female,Locataire,Propriétaire,3,1995-06-24 11:47:46.632931,yes
+1249,China,Male,Locataire,Locataire,6,1993-03-16 11:47:46.632931,no
+1250,France,Male,Locataire,Locataire,6,1985-12-07 11:47:46.632931,yes
+1251,Belgium,Female,Locataire,Locataire,4,2001-05-30 11:47:46.632931,no
+1252,USA,Male,Locataire,Locataire,10,1946-04-18 11:47:46.632931,yes
+1253,France,Female,Locataire,Propriétaire,5,1971-02-19 11:47:46.632931,yes
+1254,France,Female,Propriétaire,Locataire,4,1900-01-01 11:34:00.000000,yes
+1255,Belgium,Female,Locataire,Locataire,9,1991-05-14 11:47:46.632931,no
+1256,China,Female,Locataire,Locataire,10,1972-12-19 11:47:46.632931,no
+1257,China,Male,Locataire,Locataire,8,,no
+1258,China,Male,Propriétaire,Locataire,3,,no
+1259,USA,,Propriétaire,Propriétaire,7,1992-09-01 11:47:46.632931,yes
+1260,USA,Female,Locataire,Locataire,6,1975-05-05 11:47:46.632931,yes
+1261,France,Female,Locataire,Locataire,6,1990-10-30 11:47:46.632931,yes
+1262,USA,Male,Locataire,Locataire,5,1981-01-18 11:47:46.632931,no
+1263,USA,Female,Locataire,Locataire,3,1968-11-03 11:47:46.632931,yes
+1264,USA,Female,Locataire,Locataire,1,1971-07-25 11:47:46.632931,no
+1265,Belgium,Female,Locataire,Locataire,8,1979-06-09 11:47:46.632931,no
+1266,France,Female,Locataire,Locataire,5,,yes
+1267,USA,Female,Locataire,Locataire,6,1979-06-27 11:47:46.632931,yes
+1268,France,Female,Locataire,Locataire,3,1967-04-14 11:47:46.632931,yes
+1269,USA,Male,Locataire,Locataire,8,1975-03-20 11:47:46.632931,yes
+1270,USA,,Propriétaire,Locataire,7,,yes
+1271,USA,Female,Propriétaire,Propriétaire,8,1955-07-22 11:47:46.632931,yes
+1272,USA,Female,Propriétaire,Propriétaire,6,2002-11-22 11:47:46.632931,yes
+1273,USA,Female,Locataire,Propriétaire,1,1981-10-24 11:47:46.632931,yes
+1274,USA,Male,Propriétaire,Locataire,7,1997-10-13 11:47:46.632931,yes
+1275,USA,Female,Locataire,Locataire,5,,no
+1276,France,Male,Locataire,Locataire,5,2000-02-03 11:47:46.632931,yes
+1277,USA,Female,Locataire,Locataire,1,1966-03-01 11:47:46.632931,yes
+1278,Belgium,,Locataire,Locataire,8,1989-10-27 11:47:46.632931,no
+1279,Belgium,Female,Locataire,Locataire,6,1985-07-24 11:47:46.632931,yes
+1280,USA,Female,Locataire,Locataire,5,1976-06-05 11:47:46.632931,yes
+1281,USA,Female,Locataire,Propriétaire,5,1982-05-16 11:47:46.632931,no
+1282,Belgium,Female,Locataire,Locataire,6,1977-06-30 11:47:46.632931,yes
+1283,France,Female,Locataire,Locataire,7,1992-03-06 11:47:46.632931,yes
+1284,China,Female,Locataire,Locataire,6,2002-05-13 11:47:46.632931,no
+1285,China,Male,Locataire,Locataire,10,1965-04-27 11:47:46.632931,no
+1286,France,Female,Locataire,Locataire,6,1979-10-05 11:47:46.632931,yes
+1287,USA,Female,Locataire,Locataire,4,1900-01-01 11:34:00.000000,yes
+1288,China,Female,Locataire,Locataire,2,1964-08-04 11:47:46.632931,no
+1289,USA,Female,Locataire,Locataire,6,1997-09-29 11:47:46.632931,yes
+1290,USA,Female,Locataire,Propriétaire,2,1988-10-06 11:47:46.632931,no
+1291,USA,Female,Locataire,Propriétaire,11,1999-08-03 11:47:46.632931,yes
+1292,USA,Male,Locataire,Locataire,7,1986-02-18 11:47:46.632931,yes
+1293,USA,Male,Locataire,Locataire,6,2001-12-26 11:47:46.632931,yes
+1294,USA,,Locataire,Locataire,4,1975-09-25 11:47:46.632931,yes
+1295,China,Female,Locataire,Locataire,3,1983-04-26 11:47:46.632931,no
+1296,France,Female,Locataire,Propriétaire,1,1974-02-11 11:47:46.632931,yes
+1297,China,Male,Locataire,Locataire,4,1973-10-07 11:47:46.632931,no
+1298,China,,Propriétaire,Locataire,4,2001-05-24 11:47:46.632931,no
+1299,China,Female,Locataire,Locataire,7,1988-11-07 11:47:46.632931,no
+1300,France,Female,Locataire,Locataire,1,1986-02-05 11:47:46.632931,yes
+1301,France,Female,Propriétaire,Locataire,4,1972-01-19 11:47:46.632931,no
+1302,France,Male,Locataire,Locataire,10,,yes
+1303,France,,Locataire,Locataire,5,1987-02-03 11:47:46.632931,yes
+1304,China,,Locataire,Locataire,3,1989-03-23 11:47:46.632931,no
+1305,China,Female,Locataire,Locataire,6,2000-03-16 11:47:46.632931,no
+1306,China,Female,Locataire,Locataire,8,,no
+1307,Austria,Female,Propriétaire,Locataire,2,2002-12-29 11:47:46.632931,yes
+1308,USA,Female,Locataire,Locataire,6,1963-09-04 11:47:46.632931,yes
+1309,China,Female,Locataire,Locataire,8,1968-11-17 11:47:46.632931,no
+1310,China,Female,Locataire,Locataire,4,1959-09-18 11:47:46.632931,no
+1311,USA,Female,Locataire,Locataire,9,1987-08-03 11:47:46.632931,yes
+1312,USA,Female,Locataire,Propriétaire,2,1981-08-22 11:47:46.632931,yes
+1313,USA,,Propriétaire,Locataire,4,1989-08-15 11:47:46.632931,yes
+1314,USA,Female,Locataire,Propriétaire,15,1984-10-08 11:47:46.632931,yes
+1315,France,Male,Locataire,Locataire,1,1991-11-17 11:47:46.632931,yes
+1316,China,Female,Locataire,Propriétaire,4,1994-10-29 11:47:46.632931,yes
+1317,Belgium,Male,Propriétaire,Locataire,7,1977-04-11 11:47:46.632931,no
+1318,China,Female,Locataire,Locataire,4,1989-04-19 11:47:46.632931,no
+1319,USA,Female,Locataire,Locataire,8,1983-02-17 11:47:46.632931,yes
+1320,USA,Female,Locataire,Locataire,3,1900-01-01 11:34:00.000000,no
+1321,France,Female,Locataire,Locataire,9,1993-11-22 11:47:46.632931,yes
+1322,China,Female,Propriétaire,Locataire,1,1999-07-16 11:47:46.632931,no
+1323,USA,Female,Locataire,Locataire,8,2002-03-18 11:47:46.632931,yes
+1324,China,,Locataire,Locataire,4,1990-05-12 11:47:46.632931,no
+1325,France,Female,Locataire,Locataire,6,1995-12-09 11:47:46.632931,yes
+1326,USA,Male,Locataire,Locataire,8,1962-02-20 11:47:46.632931,no
+1327,France,Male,Locataire,Locataire,8,,yes
+1328,China,Male,Locataire,Locataire,9,1991-02-28 11:47:46.632931,no
+1329,China,Female,Locataire,Locataire,7,1974-05-10 11:47:46.632931,no
+1330,Belgium,Male,Locataire,Propriétaire,1,1998-11-20 11:47:46.632931,no
+1331,USA,Male,Locataire,Locataire,7,1989-03-08 11:47:46.632931,yes
+1332,USA,Male,Propriétaire,Locataire,7,1984-12-24 11:47:46.632931,yes
+1333,USA,Female,Locataire,Locataire,3,1991-05-23 11:47:46.632931,yes
+1334,Austria,Female,Locataire,Locataire,1,1973-02-13 11:47:46.632931,yes
+1335,USA,Female,Locataire,Locataire,5,1957-08-14 11:47:46.632931,yes
+1336,China,Female,Locataire,Locataire,8,1990-05-16 11:47:46.632931,no
+1337,Belgium,Female,Locataire,Propriétaire,8,,yes
+1338,USA,Female,Locataire,Locataire,3,1985-10-30 11:47:46.632931,yes
+1339,USA,,Locataire,Locataire,6,,yes
+1340,USA,Male,Locataire,Locataire,5,2000-12-21 11:47:46.632931,yes
+1341,France,Male,Locataire,Locataire,3,1958-11-08 11:47:46.632931,yes
+1342,USA,Female,Locataire,Locataire,9,1989-08-26 11:47:46.632931,yes
+1343,France,Male,Locataire,Locataire,5,,yes
+1344,USA,Male,Locataire,Locataire,1,1973-12-04 11:47:46.632931,yes
+1345,China,Male,Locataire,Locataire,3,1982-08-04 11:47:46.632931,no
+1346,France,Female,Propriétaire,Locataire,9,1985-08-18 11:47:46.632931,yes
+1347,France,Male,Locataire,Locataire,5,1958-01-26 11:47:46.632931,yes
+1348,Belgium,Female,Locataire,Locataire,5,1979-07-02 11:47:46.632931,yes
+1349,China,Male,Locataire,Locataire,5,1988-03-27 11:47:46.632931,no
+1350,China,,Locataire,Propriétaire,5,,no
+1351,USA,Male,Locataire,Locataire,5,1989-09-02 11:47:46.632931,yes
+1352,France,,Locataire,Propriétaire,4,1990-10-06 11:47:46.632931,no
+1353,USA,Female,Locataire,Locataire,8,1900-01-01 11:34:00.000000,yes
+1354,France,Male,Propriétaire,Locataire,10,1985-04-09 11:47:46.632931,yes
+1355,France,Male,Locataire,Locataire,5,1963-04-09 11:47:46.632931,yes
+1356,France,Female,Locataire,Propriétaire,6,1986-06-28 11:47:46.632931,yes
+1357,France,Female,Locataire,Propriétaire,1,1973-07-28 11:47:46.632931,yes
+1358,China,Female,Locataire,Locataire,14,1994-12-05 11:47:46.632931,no
+1359,China,Female,Locataire,Propriétaire,3,1997-10-21 11:47:46.632931,no
+1360,USA,Female,Locataire,Locataire,1,2001-11-18 11:47:46.632931,yes
+1361,China,,Locataire,Locataire,5,1986-12-16 11:47:46.632931,no
+1362,China,Female,Locataire,Propriétaire,3,1989-11-11 11:47:46.632931,no
+1363,France,,Locataire,Locataire,7,1998-10-29 11:47:46.632931,yes
+1364,USA,Female,Locataire,Locataire,3,1998-07-06 11:47:46.632931,no
+1365,USA,Male,Locataire,Locataire,4,,no
+1366,USA,,Locataire,Locataire,6,1974-05-13 11:47:46.632931,yes
+1367,China,,Locataire,Propriétaire,6,1983-11-27 11:47:46.632931,no
+1368,USA,Female,Locataire,Locataire,3,1977-07-15 11:47:46.632931,yes
+1369,USA,Female,Propriétaire,Propriétaire,7,1989-07-19 11:47:46.632931,yes
+1370,France,Female,Locataire,Propriétaire,10,1980-07-09 11:47:46.632931,yes
+1371,Belgium,Female,Locataire,Propriétaire,4,2001-10-29 11:47:46.632931,yes
+1372,China,Male,Locataire,Locataire,6,,no
+1373,France,,Locataire,Locataire,6,,no
+1374,France,Female,Locataire,Locataire,12,1999-09-08 11:47:46.632931,yes
+1375,USA,Female,Locataire,Locataire,8,1975-12-09 11:47:46.632931,yes
+1376,France,Female,Locataire,Propriétaire,6,1995-10-08 11:47:46.632931,yes
+1377,USA,Male,Locataire,Locataire,1,1996-07-24 11:47:46.632931,yes
+1378,France,Male,Locataire,Locataire,9,,yes
+1379,France,Female,Locataire,Locataire,3,1970-04-29 11:47:46.632931,yes
+1380,USA,Female,Propriétaire,Locataire,4,1987-11-17 11:47:46.632931,no
+1381,China,Female,Locataire,Locataire,5,1986-04-02 11:47:46.632931,no
+1382,USA,Male,Propriétaire,Locataire,1,1989-03-08 11:47:46.632931,no
+1383,France,,Locataire,Locataire,6,1989-01-23 11:47:46.632931,yes
+1384,France,Female,Locataire,Locataire,11,,yes
+1385,France,Female,Propriétaire,Locataire,1,1962-06-13 11:47:46.632931,yes
+1386,Belgium,Female,Locataire,Propriétaire,2,1900-01-01 11:34:00.000000,no
+1387,Belgium,Male,Locataire,Locataire,5,1998-09-01 11:47:46.632931,yes
+1388,China,Female,Locataire,Locataire,3,1996-11-24 11:47:46.632931,no
+1389,China,Male,Locataire,Locataire,6,1968-07-20 11:47:46.632931,no
+1390,USA,Female,Locataire,Locataire,1,1974-11-08 11:47:46.632931,yes
+1391,China,,Locataire,Locataire,8,,yes
+1392,USA,Female,Locataire,Locataire,3,1971-01-31 11:47:46.632931,yes
+1393,USA,Male,Propriétaire,Locataire,5,,yes
+1394,USA,Male,Locataire,Locataire,1,,no
+1395,USA,Female,Locataire,Locataire,5,1979-11-29 11:47:46.632931,no
+1396,USA,Male,Locataire,Locataire,4,1958-07-07 11:47:46.632931,yes
+1397,China,Male,Locataire,Locataire,10,,no
+1398,France,Male,Locataire,Locataire,6,,yes
+1399,Belgium,Male,Locataire,Locataire,4,1983-04-29 11:47:46.632931,yes
+1400,USA,Female,Locataire,Locataire,2,1979-09-25 11:47:46.632931,yes
+1401,France,Female,Propriétaire,Locataire,5,1983-03-17 11:47:46.632931,yes
+1402,China,,Locataire,Locataire,9,,no
+1403,France,Female,Locataire,Locataire,3,1960-01-16 11:47:46.632931,yes
+1404,Belgium,Male,Locataire,Propriétaire,10,1971-05-07 11:47:46.632931,yes
+1405,China,Male,Locataire,Locataire,9,2002-10-30 11:47:46.632931,no
+1406,USA,Male,Locataire,Propriétaire,7,1976-05-11 11:47:46.632931,yes
+1407,China,Female,Locataire,Locataire,10,2003-02-12 11:47:46.632931,yes
+1408,USA,Male,Locataire,Propriétaire,8,1999-02-26 11:47:46.632931,yes
+1409,China,Female,Locataire,Locataire,8,1985-03-24 11:47:46.632931,no
+1410,USA,Female,Locataire,Locataire,11,2002-07-01 11:47:46.632931,yes
+1411,USA,Male,Locataire,Locataire,11,2000-01-13 11:47:46.632931,yes
+1412,USA,,Locataire,Locataire,6,1981-12-04 11:47:46.632931,yes
+1413,France,Female,Locataire,Locataire,7,1996-05-11 11:47:46.632931,yes
+1414,China,Female,Propriétaire,Propriétaire,2,1997-09-18 11:47:46.632931,no
+1415,China,Female,Locataire,Locataire,7,1975-05-07 11:47:46.632931,no
+1416,France,,Locataire,Locataire,7,1987-09-24 11:47:46.632931,yes
+1417,China,Male,Propriétaire,Locataire,5,1966-05-21 11:47:46.632931
+1418,France,Female,Locataire,Locataire,7,1992-03-28 11:47:46.632931,yes
+1419,USA,Male,Locataire,Locataire,3,1900-01-01 11:34:00.000000,yes
+1420,USA,Female,Propriétaire,Locataire,3,,yes
+1421,France,,Locataire,Locataire,5,1973-04-15 11:47:46.632931,yes
+1422,USA,Female,Locataire,Locataire,1,1948-05-14 11:47:46.632931,yes
+1423,USA,Female,Propriétaire,Locataire,6,,yes
+1424,China,Male,Locataire,Locataire,2,1978-10-04 11:47:46.632931,no
+1425,China,Female,Locataire,Propriétaire,4,1976-03-17 11:47:46.632931,no
+1426,USA,,Propriétaire,Locataire,7,1972-07-09 11:47:46.632931,no
+1427,USA,Female,Propriétaire,Locataire,11,1968-02-19 11:47:46.632931,yes
+1428,USA,Male,Locataire,Locataire,7,1979-08-10 11:47:46.632931,yes
+1429,Belgium,Male,Locataire,Propriétaire,8,,no
+1430,USA,Male,Propriétaire,Locataire,1,1990-01-09 11:47:46.632931,yes
+1431,Belgium,Female,Locataire,Locataire,4,1973-12-17 11:47:46.632931,yes
+1432,USA,Female,Propriétaire,Locataire,3,,yes
+1433,China,Female,Locataire,Locataire,3,1977-10-20 11:47:46.632931,no
+1434,China,Female,Locataire,Propriétaire,1,1969-07-27 11:47:46.632931,no
+1435,USA,Female,Propriétaire,Locataire,5,1988-07-31 11:47:46.632931,yes
+1436,Belgium,Male,Locataire,Locataire,2,1976-05-27 11:47:46.632931,yes
+1437,Austria,Female,Locataire,Locataire,9,1973-08-12 11:47:46.632931,yes
+1438,USA,Male,Locataire,Locataire,6,,yes
+1439,USA,Male,Locataire,Locataire,1,1977-04-27 11:47:46.632931,no
+1440,France,Male,Propriétaire,Locataire,7,1996-02-12 11:47:46.632931,yes
+1441,USA,Female,Propriétaire,Locataire,1,1988-07-14 11:47:46.632931,yes
+1442,France,Male,Locataire,Locataire,1,1983-11-29 11:47:46.632931,yes
+1443,USA,Male,Locataire,Locataire,2,,yes
+1444,China,Male,Locataire,Locataire,6,,no
+1445,France,Male,Locataire,Locataire,9,1995-10-22 11:47:46.632931,no
+1446,France,,Propriétaire,Locataire,7,1975-07-13 11:47:46.632931,yes
+1447,USA,Female,Propriétaire,Propriétaire,9,,yes
+1448,USA,Female,Locataire,Locataire,9,1985-11-22 11:47:46.632931,yes
+1449,USA,Female,Locataire,Propriétaire,9,2002-03-13 11:47:46.632931,no
+1450,China,Female,Locataire,Locataire,5,1970-05-09 11:47:46.632931,no
+1451,France,,Locataire,Locataire,2,1977-06-28 11:47:46.632931,yes
+1452,France,Female,Locataire,Locataire,5,1900-01-01 11:34:00.000000,yes
+1453,USA,Male,Locataire,Locataire,3,1978-08-12 11:47:46.632931,yes
+1454,USA,Female,Locataire,Locataire,5,1997-08-07 11:47:46.632931,yes
+1455,USA,Female,Locataire,Locataire,4,1979-10-21 11:47:46.632931,yes
+1456,China,Male,Propriétaire,Propriétaire,6,1978-06-15 11:47:46.632931,yes
+1457,France,Male,Locataire,Locataire,4,1987-01-28 11:47:46.632931,yes
+1458,USA,Male,Locataire,Locataire,4,1954-08-26 11:47:46.632931,yes
+1459,USA,,Locataire,Locataire,8,1993-10-02 11:47:46.632931,yes
+1460,USA,Female,Propriétaire,Locataire,10,1993-12-21 11:47:46.632931,yes
+1461,USA,,Propriétaire,Locataire,2,,yes
+1462,Austria,Male,Locataire,Propriétaire,6,1981-05-16 11:47:46.632931,yes
+1463,USA,Male,Locataire,Propriétaire,7,1960-06-28 11:47:46.632931,yes
+1464,France,Female,Locataire,Propriétaire,3,1983-07-06 11:47:46.632931,yes
+1465,France,Male,Locataire,Locataire,7,1985-12-22 11:47:46.632931,yes
+1466,Belgium,Female,Locataire,Locataire,4,1981-01-27 11:47:46.632931,yes
+1467,China,Female,Locataire,Locataire,9,1978-04-09 11:47:46.632931,no
+1468,USA,Male,Locataire,Propriétaire,4,,yes
+1469,China,Male,Locataire,Locataire,6,1988-03-03 11:47:46.632931,yes
+1470,China,Female,Locataire,Propriétaire,2,1976-09-27 11:47:46.632931,yes
+1471,USA,Male,Locataire,Propriétaire,8,2003-01-14 11:47:46.632931,yes
+1472,France,Male,Propriétaire,Locataire,4,,yes
+1473,USA,Female,Locataire,Locataire,7,1982-09-16 11:47:46.632931,yes
+1474,France,Female,Locataire,Locataire,5,,yes
+1475,USA,Female,Locataire,Propriétaire,9,1981-10-11 11:47:46.632931,yes
+1476,USA,Male,Locataire,Locataire,6,1977-05-10 11:47:46.632931,yes
+1477,Belgium,Male,Locataire,Locataire,4,1998-03-24 11:47:46.632931,yes
+1478,USA,Male,Locataire,Locataire,2,1975-01-11 11:47:46.632931,no
+1479,France,Male,Propriétaire,Locataire,7,1977-12-10 11:47:46.632931,yes
+1480,USA,Male,Locataire,Locataire,6,1995-06-09 11:47:46.632931,no
+1481,USA,Female,Locataire,Locataire,5,1985-06-14 11:47:46.632931,yes
+1482,France,Male,Locataire,Locataire,3,,yes
+1483,China,Female,Locataire,Propriétaire,6,1990-06-23 11:47:46.632931,no
+1484,France,Male,Propriétaire,Locataire,8,1991-08-07 11:47:46.632931,yes
+1485,China,Female,Propriétaire,Propriétaire,5,1900-01-01 11:34:00.000000,no
+1486,China,,Locataire,Locataire,6,1996-01-21 11:47:46.632931,yes
+1487,China,Female,Locataire,Locataire,10,,no
+1488,France,Male,Locataire,Locataire,1,1980-02-11 11:47:46.632931,yes
+1489,Belgium,Female,Locataire,Locataire,7,1995-10-05 11:47:46.632931,no
+1490,China,,Locataire,Locataire,4,1961-08-22 11:47:46.632931,no
+1491,China,Female,Locataire,Propriétaire,4,1983-07-21 11:47:46.632931,no
+1492,China,Male,Locataire,Locataire,4,1999-09-21 11:47:46.632931,no
+1493,France,Female,Locataire,Locataire,2,,yes
+1494,China,Male,Locataire,Locataire,5,1975-08-10 11:47:46.632931,no
+1495,USA,Male,Locataire,Locataire,8,1995-04-22 11:47:46.632931,no
+1496,USA,Female,Locataire,Propriétaire,3,,no
+1497,USA,,Propriétaire,Locataire,5,1960-12-09 11:47:46.632931,yes
+1498,USA,Female,Locataire,Locataire,7,1957-09-20 11:47:46.632931,yes
+1499,USA,Female,Locataire,Locataire,10,1987-07-11 11:47:46.632931,yes
+4567,Austria,Male,Propriétaire,Locataire,7,1978-11-10 11:47:46.632931,yes
+1501,USA,Male,Propriétaire,Locataire,5,1965-12-11 11:47:46.632931,yes
+1502,China,Female,Locataire,Propriétaire,2,,no
+1503,France,Female,Locataire,Propriétaire,6,,yes
+1504,USA,Female,Locataire,Locataire,9,1997-11-17 11:47:46.632931,yes
+1505,USA,Male,Locataire,Locataire,4,1979-11-03 11:47:46.632931,yes
+1506,China,,Locataire,Locataire,5,1987-02-23 11:47:46.632931,no
+1507,Belgium,Female,Locataire,Locataire,6,,no
+1508,Belgium,Female,Locataire,Locataire,5,1991-10-01 11:47:46.632931,yes
+1509,USA,Female,Locataire,Locataire,1,1981-05-09 11:47:46.632931,no
+1510,France,Female,Locataire,Locataire,10,,yes
+1511,USA,Male,Locataire,Propriétaire,1,1975-06-08 11:47:46.632931,yes
+1512,USA,,Locataire,Locataire,5,1990-05-05 11:47:46.632931,no
+1513,China,Male,Locataire,Propriétaire,8,2002-09-29 11:47:46.632931,no
+1514,France,Female,Propriétaire,Propriétaire,5,1991-12-14 11:47:46.632931,yes
+1515,France,Male,Locataire,Locataire,7,1958-04-07 11:47:46.632931,yes
+1516,USA,Male,Locataire,Propriétaire,1,1986-11-15 11:47:46.632931,yes
+1517,Belgium,Male,Locataire,Propriétaire,4,1985-12-20 11:47:46.632931,yes
+1518,Belgium,Male,Locataire,Propriétaire,2,1900-01-01 11:34:00.000000,yes
+1519,China,Male,Locataire,Locataire,7,2002-03-26 11:47:46.632931,no
+1520,France,Male,Locataire,Propriétaire,4,1986-02-28 11:47:46.632931,yes
+1521,Belgium,,Locataire,Propriétaire,3,1996-04-03 11:47:46.632931,no
+1522,USA,Male,Locataire,Locataire,11,1972-11-27 11:47:46.632931,no
+1523,USA,Male,Locataire,Propriétaire,9,1975-12-12 11:47:46.632931,yes
+1524,France,Female,Locataire,Locataire,6,,yes
+1525,France,Female,Locataire,Locataire,7,1981-07-01 11:47:46.632931,yes
+1526,France,Male,Locataire,Propriétaire,9,1980-06-04 11:47:46.632931,yes
+1527,China,Female,Locataire,Locataire,8,,no
+1528,USA,Female,Propriétaire,Locataire,7,1979-04-27 11:47:46.632931,yes
+1529,China,Female,Locataire,Propriétaire,4,1978-02-18 11:47:46.632931,no
+1530,Belgium,Male,Propriétaire,Locataire,6,,yes
+1531,France,,Locataire,Locataire,1,1994-03-13 11:47:46.632931,yes
+1532,Belgium,Female,Locataire,Locataire,1,1989-11-05 11:47:46.632931,yes
+1533,USA,Female,Locataire,Locataire,6,1970-04-25 11:47:46.632931,yes
+1534,China,Male,Propriétaire,Locataire,7,1990-11-01 11:47:46.632931,no
+1535,USA,Male,Propriétaire,Locataire,5,1970-04-28 11:47:46.632931,yes
+1536,France,Female,Locataire,Locataire,5,1987-11-16 11:47:46.632931,yes
+1537,France,Male,Propriétaire,Locataire,5,1998-09-04 11:47:46.632931,yes
+1538,China,Male,Locataire,Locataire,8,1985-03-08 11:47:46.632931,no
+1539,China,Female,Locataire,Locataire,4,1994-10-14 11:47:46.632931,no
+1540,China,Female,Locataire,Propriétaire,9,1997-08-06 11:47:46.632931,no
+1541,China,Female,Locataire,Locataire,7,1964-06-24 11:47:46.632931,yes
+1542,USA,Female,Propriétaire,Locataire,10,1966-06-26 11:47:46.632931,no
+1543,China,Male,Locataire,Locataire,5,1984-11-27 11:47:46.632931,no
+1544,USA,Female,Locataire,Locataire,6,1973-07-07 11:47:46.632931,yes
+1545,China,Female,Locataire,Locataire,6,1993-03-04 11:47:46.632931,no
+1546,France,Female,Locataire,Locataire,4,1980-02-26 11:47:46.632931,yes
+1547,USA,Female,Locataire,Locataire,8,1971-08-10 11:47:46.632931,no
+1548,France,Female,Locataire,Locataire,4,1990-10-19 11:47:46.632931,yes
+1549,France,Female,Locataire,Locataire,1,1991-09-08 11:47:46.632931,yes
+1550,USA,,Locataire,Locataire,11,1974-09-08 11:47:46.632931,yes
+1551,USA,Female,Locataire,Locataire,12,1900-01-01 11:34:00.000000,yes
+1552,USA,Female,Locataire,Locataire,3,,yes
+1553,France,Female,Propriétaire,Locataire,5,1971-09-29 11:47:46.632931,yes
+1554,France,Male,Propriétaire,Locataire,5,1984-05-11 11:47:46.632931,yes
+1555,China,Male,Locataire,Locataire,8,1980-05-20 11:47:46.632931,yes
+1556,France,Female,Locataire,Locataire,4,1984-11-23 11:47:46.632931,yes
+1557,China,Female,Propriétaire,Propriétaire,6,,no
+1558,USA,Male,Propriétaire,Locataire,5,1995-09-17 11:47:46.632931,yes
+1559,France,Female,Locataire,Locataire,5,1990-06-17 11:47:46.632931,yes
+1560,China,Female,Locataire,Locataire,9,1996-10-30 11:47:46.632931,no
+1561,USA,Male,Locataire,Locataire,4,1969-09-17 11:47:46.632931,yes
+1562,China,,Locataire,Locataire,9,1950-05-29 11:47:46.632931,no
+1563,Belgium,Male,Propriétaire,Locataire,7,1975-12-22 11:47:46.632931,yes
+1564,USA,Female,Locataire,Locataire,8,1971-11-10 11:47:46.632931,yes
+1565,USA,Male,Locataire,Locataire,7,1995-01-29 11:47:46.632931,yes
+1566,USA,Male,Locataire,Locataire,1,1968-07-19 11:47:46.632931,yes
+1567,China,Male,Locataire,Propriétaire,1,1968-07-11 11:47:46.632931,no
+1568,USA,Female,Locataire,Locataire,3,,yes
+1569,Belgium,Female,Locataire,Locataire,6,1994-07-16 11:47:46.632931,yes
+1570,China,,Locataire,Locataire,5,,yes
+1571,Belgium,Male,Locataire,Locataire,6,1994-07-07 11:47:46.632931,yes
+1572,USA,Female,Locataire,Locataire,8,1968-08-30 11:47:46.632931,yes
+1573,France,Male,Locataire,Locataire,3,1985-08-29 11:47:46.632931,yes
+1574,USA,Female,Locataire,Locataire,1,1988-10-19 11:47:46.632931,no
+1575,France,Male,Locataire,Propriétaire,10,1964-05-10 11:47:46.632931,yes
+1576,USA,Female,Locataire,Locataire,2,1990-08-03 11:47:46.632931,yes
+1577,Belgium,Female,Locataire,Propriétaire,8,1979-08-12 11:47:46.632931,no
+1578,France,Female,Locataire,Locataire,4,1995-01-11 11:47:46.632931,yes
+1579,China,Female,Locataire,Locataire,4,,no
+1580,France,Female,Locataire,Locataire,6,1978-10-19 11:47:46.632931,yes
+1581,France,Female,Locataire,Locataire,8,1998-11-02 11:47:46.632931,yes
+1582,France,,Locataire,Locataire,9,1983-08-01 11:47:46.632931,yes
+1583,Belgium,Female,Locataire,Locataire,1,1982-06-20 11:47:46.632931,no
+1584,Austria,Female,Propriétaire,Locataire,4,1900-01-01 11:34:00.000000,yes
+1585,USA,Male,Locataire,Locataire,6,2003-01-11 11:47:46.632931,yes
+1586,China,Male,Locataire,Locataire,2,1984-11-14 11:47:46.632931,no
+1587,France,Male,Locataire,Propriétaire,5,1981-08-29 11:47:46.632931,yes
+1588,China,Female,Locataire,Locataire,10,1977-05-24 11:47:46.632931,yes
+1589,USA,Female,Locataire,Locataire,7,2001-09-09 11:47:46.632931,yes
+1590,France,Female,Locataire,Locataire,1,1982-01-11 11:47:46.632931,yes
+1591,USA,Female,Locataire,Locataire,2,1996-02-21 11:47:46.632931,yes
+1592,USA,Female,Locataire,Locataire,8,,yes
+1593,Belgium,Female,Locataire,Locataire,7,2000-12-02 11:47:46.632931,yes
+1594,China,Male,Locataire,Locataire,6,1969-12-30 11:47:46.632931,yes
+1595,Austria,Female,Locataire,Locataire,7,,yes
+1596,USA,Male,Locataire,Locataire,5,1999-12-11 11:47:46.632931,yes
+1597,China,Female,Locataire,Propriétaire,3,1996-12-29 11:47:46.632931,no
+1598,Belgium,Male,Locataire,Locataire,4,1999-12-02 11:47:46.632931,yes
+1599,China,Female,Locataire,Locataire,7,1985-04-11 11:47:46.632931,yes
+1600,USA,Male,Locataire,Locataire,5,,no
+1601,China,Female,Locataire,Propriétaire,6,1964-08-02 11:47:46.632931,no
+1602,China,,Locataire,Locataire,9,,no
+1603,France,Male,Locataire,Propriétaire,7,1991-07-22 11:47:46.632931,yes
+1604,USA,Male,Propriétaire,Propriétaire,8,,yes
+1605,France,Female,Propriétaire,Locataire,9,,no
+1606,China,Female,Propriétaire,Locataire,3,,no
+1607,China,Female,Locataire,Propriétaire,8,,yes
+1608,USA,Male,Locataire,Locataire,7,1979-11-21 11:47:46.632931,yes
+1609,France,Female,Locataire,Locataire,8,1972-11-06 11:47:46.632931,yes
+1610,Belgium,Female,Locataire,Propriétaire,5,1993-05-27 11:47:46.632931,yes
+1611,France,Male,Propriétaire,Locataire,6,1992-05-09 11:47:46.632931,yes
+1612,USA,Male,Locataire,Locataire,7,1966-04-09 11:47:46.632931,yes
+1613,Austria,Female,Locataire,Locataire,10,1971-08-14 11:47:46.632931,yes
+1614,USA,Female,Locataire,Propriétaire,1,,yes
+1615,Belgium,Male,Locataire,Locataire,3,1982-04-20 11:47:46.632931,no
+1616,France,Female,Propriétaire,Locataire,5,1988-02-03 11:47:46.632931,yes
+1617,China,Female,Locataire,Propriétaire,3,1900-01-01 11:34:00.000000,no
+1618,USA,Male,Locataire,Propriétaire,3,1984-06-27 11:47:46.632931,no
+1619,China,Female,Propriétaire,Propriétaire,4,1982-10-10 11:47:46.632931,no
+1620,USA,Male,Locataire,Locataire,4,,yes
+1621,USA,Female,Locataire,Locataire,12,1976-09-18 11:47:46.632931,no
+1622,USA,,Propriétaire,Locataire,2,1981-03-09 11:47:46.632931,yes
+1623,USA,Female,Propriétaire,Propriétaire,1,1987-04-17 11:47:46.632931,yes
+1624,Belgium,Male,Locataire,Locataire,5,2000-05-06 11:47:46.632931,no
+1625,China,Female,Propriétaire,Propriétaire,11,1968-01-24 11:47:46.632931,no
+1626,USA,Female,Locataire,Locataire,4,1971-01-01 11:47:46.632931,yes
+1627,China,Male,Propriétaire,Locataire,3,,no
+1628,USA,Female,Locataire,Locataire,9,1987-02-10 11:47:46.632931,no
+1629,China,Female,Locataire,Propriétaire,1,,no
+1630,China,Female,Locataire,Locataire,9,1993-08-18 11:47:46.632931,no
+1631,USA,Male,Locataire,Locataire,9,1993-08-31 11:47:46.632931,yes
+1632,USA,Female,Locataire,Propriétaire,9,1983-10-04 11:47:46.632931,yes
+1633,France,Female,Locataire,Propriétaire,7,1985-06-08 11:47:46.632931,yes
+1634,USA,Female,Locataire,Locataire,3,2000-08-11 11:47:46.632931,yes
+1635,China,Female,Propriétaire,Propriétaire,6,,no
+1636,France,Male,Locataire,Locataire,10,,yes
+1637,China,Male,Locataire,Propriétaire,8,,no
+1638,Belgium,Female,Locataire,Locataire,9,1982-05-18 11:47:46.632931,yes
+1639,China,,Propriétaire,Locataire,7,1978-01-17 11:47:46.632931,no
+1640,France,,Locataire,Locataire,4,,yes
+1641,USA,Male,Propriétaire,Propriétaire,6,1988-07-08 11:47:46.632931,yes
+1642,China,Male,Locataire,Locataire,4,1995-06-04 11:47:46.632931,no
+1643,China,Female,Locataire,Locataire,7,1972-02-18 11:47:46.632931,no
+1644,USA,Male,Locataire,Propriétaire,4,1979-04-25 11:47:46.632931,no
+1645,USA,Female,Locataire,Propriétaire,4,1994-02-13 11:47:46.632931,yes
+1646,France,Female,Propriétaire,Locataire,7,1970-12-26 11:47:46.632931,yes
+1647,USA,,Locataire,Locataire,4,1954-07-23 11:47:46.632931,yes
+1648,USA,Male,Locataire,Locataire,8,,yes
+1649,China,Female,Locataire,Locataire,6,1974-05-26 11:47:46.632931,no
+1650,USA,Female,Locataire,Locataire,3,1900-01-01 11:34:00.000000,no
+1651,China,Female,Locataire,Locataire,7,1994-03-17 11:47:46.632931,no
+1652,USA,Female,Propriétaire,Locataire,8,1973-06-22 11:47:46.632931,yes
+1653,USA,Male,Locataire,Propriétaire,6,1984-04-07 11:47:46.632931,no
+1654,USA,Female,Locataire,Locataire,3,2001-07-25 11:47:46.632931,yes
+1655,USA,Female,Locataire,Locataire,9,1994-10-21 11:47:46.632931,yes
+1656,USA,Female,Locataire,Propriétaire,7,1965-11-30 11:47:46.632931,no
+1657,France,Male,Locataire,Propriétaire,1,,yes
+1658,USA,,Locataire,Locataire,7,1976-03-20 11:47:46.632931,no
+1659,France,Female,Locataire,Locataire,4,1983-03-03 11:47:46.632931,yes
+1660,USA,Female,Locataire,Locataire,9,1987-07-23 11:47:46.632931,yes
+1661,Austria,Male,Locataire,Locataire,5,1994-09-22 11:47:46.632931,yes
+1662,China,Female,Locataire,Locataire,11,,no
+1663,USA,Female,Locataire,Propriétaire,5,1998-11-17 11:47:46.632931,yes
+1664,USA,Female,Locataire,Locataire,9,1973-05-12 11:47:46.632931,yes
+1665,France,Female,Locataire,Locataire,2,1986-01-06 11:47:46.632931,yes
+1666,USA,Male,Locataire,Locataire,2,1975-01-03 11:47:46.632931,yes
+1667,China,Female,Propriétaire,Locataire,3,1995-12-03 11:47:46.632931,no
+1668,USA,Female,Locataire,Locataire,4,1969-11-16 11:47:46.632931,no
+1669,China,Female,Locataire,Locataire,12,1973-10-05 11:47:46.632931,no
+1670,China,Male,Locataire,Locataire,7,1977-12-30 11:47:46.632931,no
+1671,France,Male,Locataire,Propriétaire,11,,yes
+1672,USA,Female,Locataire,Locataire,5,1985-02-10 11:47:46.632931,yes
+1673,USA,Female,Propriétaire,Locataire,6,1983-02-21 11:47:46.632931,no
+1674,Belgium,Female,Locataire,Locataire,9,1986-03-09 11:47:46.632931,no
+1675,China,Female,Locataire,Locataire,7,1985-05-02 11:47:46.632931,yes
+1676,China,Female,Locataire,Locataire,6,1990-01-18 11:47:46.632931,no
+1677,USA,Female,Locataire,Locataire,8,1984-08-27 11:47:46.632931,yes
+1678,China,Female,Locataire,Locataire,2,,no
+1679,Belgium,Female,Locataire,Locataire,8,1986-10-16 11:47:46.632931,yes
+1680,USA,Female,Locataire,Propriétaire,10,1975-01-31 11:47:46.632931,yes
+1681,USA,Male,Propriétaire,Locataire,5,2001-02-01 11:47:46.632931,yes
+1682,China,,Locataire,Locataire,12,,no
+1683,China,,Locataire,Locataire,8,1900-01-01 11:34:00.000000,yes
+1684,France,Male,Locataire,Locataire,9,,yes
+1685,China,Female,Locataire,Locataire,7,1978-10-24 11:47:46.632931,no
+1686,China,Male,Propriétaire,Propriétaire,10,1980-08-18 11:47:46.632931,no
+1687,USA,Female,Locataire,Locataire,2,1973-07-22 11:47:46.632931,yes
+1688,China,Female,Locataire,Locataire,4,1956-03-20 11:47:46.632931,no
+1689,France,Male,Locataire,Locataire,2,1973-03-14 11:47:46.632931,yes
+1690,USA,Male,Locataire,Locataire,2,1973-05-19 11:47:46.632931,no
+1691,USA,Female,Propriétaire,Locataire,9,1980-12-09 11:47:46.632931,yes
+1692,France,Female,Propriétaire,Locataire,10,1991-07-30 11:47:46.632931,yes
+1693,China,Male,Locataire,Locataire,5,1983-12-03 11:47:46.632931,yes
+1694,USA,Male,Locataire,Locataire,2,2001-09-18 11:47:46.632931,yes
+1695,France,,Locataire,Locataire,3,1995-04-08 11:47:46.632931,yes
+1696,Belgium,Female,Locataire,Locataire,4,,no
+1697,France,Male,Propriétaire,Locataire,3,1946-09-09 11:47:46.632931,yes
+1698,China,Female,Locataire,Locataire,1,,yes
+1699,USA,,Locataire,Locataire,8,,no
+1700,China,,Propriétaire,Locataire,2,,no
+1701,USA,Female,Locataire,Locataire,9,1983-08-06 11:47:46.632931,no
+1702,Belgium,Male,Locataire,Locataire,6,1999-09-12 11:47:46.632931,no
+1703,France,Female,Locataire,Propriétaire,5,1997-08-03 11:47:46.632931,yes
+1704,China,Female,Locataire,Locataire,4,1992-03-03 11:47:46.632931,no
+1705,USA,Male,Locataire,Locataire,6,1988-06-20 11:47:46.632931,yes
+1706,China,Female,Propriétaire,Propriétaire,1,1991-10-05 11:47:46.632931,yes
+1707,France,Female,Locataire,Locataire,8,1977-06-30 11:47:46.632931,yes
+1708,China,Female,Locataire,Locataire,13,1983-04-30 11:47:46.632931,yes
+1709,USA,Female,Propriétaire,Locataire,5,1994-03-20 11:47:46.632931,yes
+1710,China,Female,Locataire,Locataire,6,1967-05-31 11:47:46.632931,no
+1711,China,,Locataire,Locataire,7,1996-02-29 11:47:46.632931,no
+1712,Austria,Male,Propriétaire,Locataire,2,1978-05-07 11:47:46.632931,no
+1713,USA,Male,Locataire,Locataire,3,,no
+1714,China,Female,Propriétaire,Locataire,8,1989-02-18 11:47:46.632931,no
+1715,France,Male,Locataire,Locataire,8,,no
+1716,China,Female,Locataire,Locataire,3,1900-01-01 11:34:00.000000,no
+1717,France,Male,Locataire,Locataire,10,1987-08-01 11:47:46.632931,yes
+1718,USA,Male,Propriétaire,Locataire,2,1986-06-27 11:47:46.632931,no
+1719,China,,Locataire,Locataire,7,1998-04-24 11:47:46.632931,no
+1720,USA,,Locataire,Propriétaire,1,2002-04-25 11:47:46.632931,yes
+1721,Austria,Male,Propriétaire,Locataire,10,2001-07-01 11:47:46.632931,yes
+1722,China,Female,Locataire,Locataire,1,1984-04-17 11:47:46.632931,yes
+1723,Belgium,,Locataire,Locataire,8,,yes
+1724,USA,Male,Locataire,Propriétaire,6,,yes
+1725,USA,Female,Locataire,Locataire,2,1981-02-21 11:47:46.632931,no
+1726,China,Male,Propriétaire,Propriétaire,2,1994-07-02 11:47:46.632931,no
+1727,China,Female,Locataire,Locataire,7,1975-10-05 11:47:46.632931,no
+1728,USA,Female,Locataire,Locataire,3,1979-12-09 11:47:46.632931,yes
+1729,France,Female,Locataire,Propriétaire,5,1976-07-17 11:47:46.632931,yes
+1730,China,Female,Locataire,Locataire,7,1991-05-15 11:47:46.632931,no
+1731,France,Male,Locataire,Propriétaire,6,1991-12-25 11:47:46.632931,yes
+1732,France,,Propriétaire,Locataire,5,1978-05-02 11:47:46.632931,yes
+1733,China,Male,Locataire,Locataire,8,1962-02-26 11:47:46.632931,no
+1734,China,Female,Locataire,Locataire,1,1980-10-23 11:47:46.632931,no
+1735,China,Female,Locataire,Locataire,5,1972-05-26 11:47:46.632931,no
+1736,Austria,Female,Locataire,Locataire,7,1984-03-31 11:47:46.632931,yes
+1737,France,Female,Propriétaire,Locataire,7,1970-11-25 11:47:46.632931,yes
+1738,USA,Female,Locataire,Locataire,7,1986-04-18 11:47:46.632931,yes
+1739,China,Male,Locataire,Locataire,2,1954-08-19 11:47:46.632931,no
+1740,Austria,Female,Locataire,Locataire,5,1976-06-10 11:47:46.632931,yes
+1741,France,Female,Locataire,Locataire,5,1988-09-03 11:47:46.632931,yes
+1742,Belgium,Female,Propriétaire,Locataire,6,2001-11-28 11:47:46.632931,yes
+1743,USA,Female,Locataire,Locataire,9,1986-12-09 11:47:46.632931,yes
+1744,USA,Female,Propriétaire,Locataire,7,1973-11-13 11:47:46.632931,no
+1745,France,Female,Propriétaire,Locataire,7,,yes
+1746,China,Female,Locataire,Locataire,8,1989-03-16 11:47:46.632931,no
+1747,China,Female,Locataire,Propriétaire,3,1992-08-01 11:47:46.632931,no
+1748,USA,Male,Propriétaire,Locataire,4,1975-12-12 11:47:46.632931,no
+1749,USA,Female,Locataire,Propriétaire,4,1900-01-01 11:34:00.000000,yes
+1750,France,Male,Locataire,Locataire,7,2000-07-13 11:47:46.632931,yes
+1751,Austria,Male,Locataire,Locataire,3,1994-09-26 11:47:46.632931,no
+1752,USA,Female,Locataire,Locataire,8,1986-10-20 11:47:46.632931,no
+1753,Belgium,Female,Locataire,Propriétaire,7,1997-09-15 11:47:46.632931,no
+1754,Belgium,Female,Locataire,Locataire,5,,no
+1755,USA,Female,Locataire,Locataire,5,1986-08-18 11:47:46.632931,yes
+1756,China,Male,Propriétaire,Locataire,8,1990-07-01 11:47:46.632931,no
+1757,China,Male,Locataire,Locataire,8,1995-08-29 11:47:46.632931,yes
+1758,USA,Female,Locataire,Locataire,6,1992-10-20 11:47:46.632931,yes
+1759,USA,Female,Locataire,Locataire,4,1966-12-08 11:47:46.632931,yes
+1760,China,Female,Locataire,Locataire,4,,yes
+1761,Austria,Female,Locataire,Propriétaire,5,1979-01-07 11:47:46.632931,yes
+1762,France,Female,Locataire,Locataire,8,1987-10-29 11:47:46.632931,yes
+1763,France,Female,Locataire,Propriétaire,5,1998-06-26 11:47:46.632931,yes
+1764,France,,Propriétaire,Locataire,7,2001-12-12 11:47:46.632931,yes
+1765,USA,Male,Locataire,Propriétaire,7,1972-06-22 11:47:46.632931,yes
+1766,USA,Female,Locataire,Locataire,7,1969-08-22 11:47:46.632931,yes
+1767,Belgium,Female,Locataire,Locataire,6,1987-08-10 11:47:46.632931,yes
+1768,China,Female,Locataire,Locataire,4,1984-04-07 11:47:46.632931,yes
+1769,USA,Female,Locataire,Locataire,10,1995-06-20 11:47:46.632931,yes
+1770,Belgium,Female,Locataire,Locataire,9,1970-11-07 11:47:46.632931,no
+1771,USA,Female,Locataire,Locataire,8,1993-03-26 11:47:46.632931,no
+1772,USA,Female,Locataire,Propriétaire,8,1983-08-13 11:47:46.632931,yes
+1773,France,Female,Locataire,Locataire,4,1988-04-22 11:47:46.632931,yes
+1774,France,,Locataire,Propriétaire,5,1956-02-16 11:47:46.632931,yes
+1775,China,Female,Locataire,Locataire,4,,no
+1776,Belgium,Female,Locataire,Propriétaire,4,1987-11-19 11:47:46.632931,yes
+1777,USA,Female,Locataire,Locataire,5,1988-12-22 11:47:46.632931,yes
+1778,USA,Female,Propriétaire,Locataire,2,,yes
+1779,USA,Female,Locataire,Locataire,3,1984-08-30 11:47:46.632931,yes
+1780,USA,Female,Propriétaire,Propriétaire,3,1982-02-21 11:47:46.632931,yes
+1781,Belgium,Female,Propriétaire,Locataire,2,,no
+1782,USA,Male,Propriétaire,Propriétaire,7,1900-01-01 11:34:00.000000,no
+1783,China,Male,Locataire,Locataire,3,1964-10-15 11:47:46.632931,yes
+1784,China,Female,Locataire,Locataire,10,1985-12-20 11:47:46.632931,no
+1785,France,Female,Locataire,Locataire,1,1998-11-01 11:47:46.632931,yes
+1786,China,Female,Locataire,Locataire,6,,no
+1787,USA,Male,Locataire,Locataire,5,1976-08-23 11:47:46.632931,yes
+1788,USA,Male,Locataire,Locataire,5,,yes
+1789,China,Male,Locataire,Propriétaire,5,1981-06-13 11:47:46.632931,no
+1790,Belgium,Female,Locataire,Locataire,1,1991-01-04 11:47:46.632931,no
+1791,USA,Male,Locataire,Locataire,8,1979-08-17 11:47:46.632931,yes
+1792,USA,Female,Locataire,Locataire,10,1986-05-23 11:47:46.632931,yes
+1793,USA,Male,Propriétaire,Locataire,1,2001-04-20 11:47:46.632931,yes
+1794,Belgium,Female,Propriétaire,Locataire,7,,yes
+1795,Austria,Female,Locataire,Propriétaire,10,1980-08-13 11:47:46.632931,yes
+1796,France,Female,Propriétaire,Propriétaire,4,1987-07-05 11:47:46.632931,yes
+1797,France,Male,Propriétaire,Locataire,8,1973-11-30 11:47:46.632931,yes
+1798,Austria,Female,Locataire,Locataire,7,1985-06-30 11:47:46.632931,no
+1799,Belgium,Female,Locataire,Propriétaire,7,1978-04-21 11:47:46.632931,yes
+4567,USA,Female,Locataire,Propriétaire,6,,yes
+1801,France,Female,Propriétaire,Locataire,5,,no
+1802,China,Female,Locataire,Locataire,4,1987-10-23 11:47:46.632931,yes
+1803,China,Female,Propriétaire,Locataire,1,1993-01-23 11:47:46.632931,no
+1804,France,Male,Locataire,Locataire,5,1983-12-20 11:47:46.632931,no
+1805,USA,Female,Locataire,Locataire,6,1985-06-26 11:47:46.632931,yes
+1806,USA,Female,Propriétaire,Locataire,8,1976-08-27 11:47:46.632931,yes
+1807,Belgium,Female,Locataire,Propriétaire,6,1983-08-18 11:47:46.632931,no
+1808,China,Female,Locataire,Locataire,9,1977-02-02 11:47:46.632931,no
+1809,China,Female,Locataire,Propriétaire,1,1983-09-19 11:47:46.632931,no
+1810,USA,Female,Locataire,Locataire,5,,yes
+1811,USA,Female,Propriétaire,Locataire,7,1992-05-19 11:47:46.632931,yes
+1812,Austria,Female,Locataire,Locataire,3,,yes
+1813,Belgium,Male,Locataire,Locataire,8,,no
+1814,USA,Female,Locataire,Locataire,1,,yes
+1815,France,Female,Locataire,Locataire,8,1900-01-01 11:34:00.000000,yes
+1816,USA,Male,Locataire,Locataire,7,1984-05-12 11:47:46.632931,yes
+1817,France,Female,Locataire,Locataire,3,1964-11-22 11:47:46.632931,yes
+1818,USA,Male,Locataire,Locataire,8,,no
+1819,China,Male,Locataire,Propriétaire,9,,no
+1820,USA,Female,Locataire,Locataire,9,,no
+1821,China,Female,Locataire,Locataire,5,,no
+1822,USA,Female,Locataire,Locataire,12,,no
+1823,USA,Male,Locataire,Locataire,8,1995-12-01 11:47:46.632931,yes
+1824,China,Female,Locataire,Propriétaire,7,1997-07-05 11:47:46.632931,yes
+1825,USA,Female,Locataire,Locataire,4,1990-04-18 11:47:46.632931,no
+1826,France,Female,Locataire,Locataire,12,1995-08-29 11:47:46.632931,yes
+1827,USA,Male,Propriétaire,Locataire,7,1968-04-21 11:47:46.632931,yes
+1828,USA,Male,Propriétaire,Locataire,4,1981-08-31 11:47:46.632931,yes
+1829,USA,,Locataire,Propriétaire,6,1994-09-26 11:47:46.632931,yes
+1830,USA,Female,Locataire,Locataire,5,1988-04-20 11:47:46.632931,no
+1831,China,Female,Locataire,Locataire,10,,no
+1832,USA,Female,Locataire,Locataire,10,1974-05-20 11:47:46.632931,yes
+1833,France,Female,Locataire,Locataire,8,1984-06-15 11:47:46.632931,yes
+1834,USA,Female,Locataire,Propriétaire,3,1984-10-16 11:47:46.632931,yes
+1835,France,Female,Locataire,Propriétaire,7,,yes
+1836,USA,Male,Locataire,Locataire,9,1991-12-05 11:47:46.632931,yes
+1837,Belgium,,Locataire,Locataire,3,1985-01-02 11:47:46.632931,yes
+1838,China,Female,Locataire,Locataire,3,1980-04-19 11:47:46.632931,no
+1839,USA,Female,Locataire,Locataire,7,1982-09-11 11:47:46.632931,yes
+1840,Austria,Male,Locataire,Locataire,2,1980-12-13 11:47:46.632931,yes
+1841,China,Female,Locataire,Propriétaire,7,,yes
+1842,Belgium,,Locataire,Propriétaire,9,1986-04-23 11:47:46.632931,no
+1843,China,Female,Locataire,Locataire,13,,no
+1844,USA,Female,Locataire,Locataire,4,1996-04-27 11:47:46.632931,yes
+1845,USA,Female,Locataire,Locataire,7,1973-01-25 11:47:46.632931,yes
+1846,France,Female,Locataire,Locataire,3,1978-01-28 11:47:46.632931,yes
+1847,China,Male,Locataire,Propriétaire,11,1969-09-09 11:47:46.632931,yes
+1848,USA,Female,Locataire,Propriétaire,4,1900-01-01 11:34:00.000000,yes
+1849,France,Female,Locataire,Locataire,7,1992-03-06 11:47:46.632931,yes
+1850,Belgium,,Locataire,Locataire,8,1960-08-01 11:47:46.632931,no
+1851,USA,Male,Locataire,Locataire,5,1987-02-25 11:47:46.632931,yes
+1852,USA,,Locataire,Locataire,4,1963-12-29 11:47:46.632931,yes
+1853,France,Male,Locataire,Locataire,1,,yes
+1854,USA,Female,Propriétaire,Locataire,10,2001-07-25 11:47:46.632931,yes
+1855,USA,Male,Propriétaire,Locataire,6,1977-02-16 11:47:46.632931,no
+1856,France,Female,Locataire,Locataire,6,1983-09-19 11:47:46.632931,yes
+1857,France,Female,Locataire,Locataire,5,1974-05-15 11:47:46.632931,yes
+1858,Belgium,Female,Locataire,Locataire,6,1996-04-10 11:47:46.632931,no
+1859,France,Female,Locataire,Locataire,5,1977-06-28 11:47:46.632931,yes
+1860,Austria,,Locataire,Locataire,1,1997-09-13 11:47:46.632931,yes
+1861,USA,Male,Locataire,Locataire,9,1988-02-13 11:47:46.632931,no
+1862,China,Female,Locataire,Locataire,12,1986-12-05 11:47:46.632931,yes
+1863,France,Female,Locataire,Locataire,3,1955-03-15 11:47:46.632931,yes
+1864,USA,Female,Locataire,Propriétaire,3,1985-09-26 11:47:46.632931,yes
+1865,China,Female,Locataire,Propriétaire,1,1983-03-28 11:47:46.632931,yes
+1866,USA,,Propriétaire,Locataire,6,1978-08-25 11:47:46.632931,yes
+1867,USA,Female,Locataire,Locataire,10,1980-08-13 11:47:46.632931,yes
+1868,France,Female,Locataire,Locataire,12,1995-01-07 11:47:46.632931,no
+1869,France,Male,Locataire,Locataire,3,,yes
+1870,China,Male,Locataire,Locataire,7,1974-02-20 11:47:46.632931,no
+1871,Belgium,Female,Locataire,Locataire,3,1978-02-23 11:47:46.632931,yes
+1872,France,Male,Locataire,Locataire,5,1980-11-24 11:47:46.632931,yes
+1873,USA,Male,Locataire,Locataire,2,1986-07-27 11:47:46.632931,yes
+1874,USA,Male,Locataire,Locataire,7,1976-12-12 11:47:46.632931,yes
+1875,China,Female,Locataire,Locataire,12,1982-04-19 11:47:46.632931,no
+1876,Austria,Female,Locataire,Locataire,7,1966-10-13 11:47:46.632931,yes
+1877,USA,Male,Locataire,Locataire,6,1988-12-29 11:47:46.632931,yes
+1878,USA,Male,Propriétaire,Locataire,10,1963-01-23 11:47:46.632931,yes
+1879,USA,Female,Locataire,Locataire,9,1969-10-18 11:47:46.632931,yes
+1880,China,,Locataire,Propriétaire,2,1988-02-10 11:47:46.632931,no
+1881,China,Male,Propriétaire,Locataire,5,1900-01-01 11:34:00.000000,no
+1882,China,Female,Locataire,Locataire,9,1986-03-25 11:47:46.632931,no
+1883,USA,Male,Locataire,Locataire,3,1990-03-11 11:47:46.632931,yes
+1884,China,Female,Propriétaire,Locataire,8,1998-06-01 11:47:46.632931,no
+1885,USA,Female,Locataire,Locataire,3,1973-01-14 11:47:46.632931,no
+1886,USA,Female,Locataire,Locataire,6,1967-10-23 11:47:46.632931,no
+1887,China,,Locataire,Propriétaire,6,1966-10-12 11:47:46.632931,no
+1888,Belgium,Female,Locataire,Locataire,6,1992-08-23 11:47:46.632931,yes
+1889,France,Female,Locataire,Propriétaire,4,1995-06-12 11:47:46.632931,yes
+1890,USA,Female,Locataire,Locataire,7,1976-12-17 11:47:46.632931,yes
+1891,USA,,Locataire,Propriétaire,6,1996-03-01 11:47:46.632931,yes
+1892,China,Male,Locataire,Locataire,2,2000-06-13 11:47:46.632931,no
+1893,USA,Male,Locataire,Locataire,7,1969-01-23 11:47:46.632931,no
+1894,China,Female,Locataire,Locataire,7,1985-06-17 11:47:46.632931,no
+1895,Belgium,Female,Propriétaire,Locataire,7,1976-07-01 11:47:46.632931,yes
+1896,USA,,Locataire,Propriétaire,2,2001-04-15 11:47:46.632931,yes
+1897,China,,Locataire,Locataire,7,1979-03-01 11:47:46.632931,no
+1898,USA,,Locataire,Propriétaire,10,1958-05-05 11:47:46.632931,yes
+1899,USA,Female,Locataire,Locataire,9,1985-08-13 11:47:46.632931,yes
+1900,China,Female,Locataire,Locataire,4,1988-04-15 11:47:46.632931,no
+1901,France,Female,Locataire,Locataire,8,1992-02-27 11:47:46.632931,yes
+1902,USA,Female,Locataire,Locataire,8,1971-10-09 11:47:46.632931,no
+1903,China,Female,Locataire,Locataire,4,1973-12-21 11:47:46.632931,no
+1904,France,Female,Propriétaire,Propriétaire,1,,yes
+1905,China,Female,Locataire,Propriétaire,8,1973-03-08 11:47:46.632931,no
+1906,USA,,Locataire,Locataire,6,,yes
+1907,Austria,Male,Locataire,Locataire,2,,yes
+1908,China,Male,Locataire,Locataire,1,1986-07-30 11:47:46.632931,no
+1909,USA,Female,Propriétaire,Locataire,7,1970-12-07 11:47:46.632931,yes
+1910,USA,Female,Locataire,Locataire,8,1978-05-04 11:47:46.632931,yes
+1911,USA,Female,Locataire,Locataire,4,,yes
+1912,USA,Female,Propriétaire,Propriétaire,9,1986-04-29 11:47:46.632931,no
+1913,China,Male,Locataire,Locataire,7,1984-06-14 11:47:46.632931,no
+1914,USA,Male,Locataire,Locataire,7,1900-01-01 11:34:00.000000,yes
+1915,France,Male,Propriétaire,Locataire,3,,yes
+1916,China,Female,Locataire,Locataire,9,1969-02-09 11:47:46.632931,no
+1917,USA,Female,Locataire,Locataire,3,1991-12-09 11:47:46.632931,yes
+1918,Belgium,Female,Propriétaire,Locataire,9,1960-06-02 11:47:46.632931,no
+1919,Belgium,Male,Locataire,Propriétaire,6,1962-04-29 11:47:46.632931,yes
+1920,China,Female,Locataire,Locataire,8,1992-12-14 11:47:46.632931,no
+1921,France,Female,Locataire,Locataire,6,1993-06-03 11:47:46.632931,yes
+1922,China,,Locataire,Locataire,4,,yes
+1923,Austria,Female,Propriétaire,Locataire,3,1978-03-14 11:47:46.632931,yes
+1924,USA,Female,Locataire,Locataire,6,1967-12-16 11:47:46.632931,yes
+1925,Belgium,Male,Propriétaire,Locataire,5,1973-05-30 11:47:46.632931,yes
+1926,China,Female,Locataire,Locataire,7,1977-11-01 11:47:46.632931,no
+1927,USA,Male,Locataire,Propriétaire,7,1991-11-24 11:47:46.632931,yes
+1928,China,Male,Locataire,Propriétaire,7,1987-04-12 11:47:46.632931,no
+1929,USA,Female,Locataire,Locataire,7,1993-04-22 11:47:46.632931,yes
+1930,USA,Female,Locataire,Locataire,4,1993-01-27 11:47:46.632931,yes
+1931,USA,Male,Locataire,Propriétaire,1,1977-03-13 11:47:46.632931,yes
+1932,Austria,Male,Locataire,Locataire,5,1972-04-18 11:47:46.632931,yes
+1933,China,,Locataire,Locataire,1,1986-08-03 11:47:46.632931,no
+1934,Austria,Female,Locataire,Locataire,8,,yes
+1935,Belgium,Female,Locataire,Locataire,2,1985-07-28 11:47:46.632931,yes
+1936;USA;Female;Propriétaire;Locataire;1;;no
+
+1937,USA,Female,Locataire,Locataire,3,1984-09-03 11:47:46.632931,no
+1938,China,Female,Locataire,Locataire,10,1991-03-12 11:47:46.632931,no
+1939,USA,Female,Locataire,Locataire,4,1975-03-21 11:47:46.632931,yes
+1940,China,Male,Propriétaire,Locataire,7,1989-06-30 11:47:46.632931,no
+1941,China,Female,Locataire,Locataire,13,1970-08-18 11:47:46.632931,no
+1942,USA,,Locataire,Propriétaire,13,,yes
+1943,USA,,Locataire,Propriétaire,12,1999-07-08 11:47:46.632931,yes
+1944,China,Female,Propriétaire,Locataire,9,1981-10-10 11:47:46.632931,no
+1945,China,Female,Locataire,Locataire,9,1999-02-21 11:47:46.632931,no
+1946,China,Female,Locataire,Locataire,1,2001-09-20 11:47:46.632931,no
+1947,China,Male,Locataire,Locataire,4,1900-01-01 11:34:00.000000,no
+1948,USA,Male,Locataire,Locataire,7,1991-12-21 11:47:46.632931,yes
+1949,France,,Locataire,Locataire,7,2002-10-19 11:47:46.632931,yes
+1950,USA,Male,Locataire,Propriétaire,5,1971-08-11 11:47:46.632931,no
+1951,France,Female,Locataire,Propriétaire,1,1979-08-20 11:47:46.632931,yes
+1952,France,Male,Locataire,Locataire,8,1992-06-21 11:47:46.632931,yes
+1953,France,Female,Locataire,Locataire,4,2003-02-13 11:47:46.632931,yes
+1954,China,Female,Propriétaire,Locataire,8,1995-07-06 11:47:46.632931,no
+1955,France,,Propriétaire,Locataire,2,,yes
+1956,USA,Male,Propriétaire,Locataire,4,1994-08-22 11:47:46.632931,no
+1957,Belgium,Female,Locataire,Locataire,1,1978-04-30 11:47:46.632931,yes
+1958,China,Male,Locataire,Locataire,5,1959-05-26 11:47:46.632931,no
+1959,China,Female,Locataire,Locataire,9,1953-05-30 11:47:46.632931,yes
+1960,USA,Male,Locataire,Propriétaire,7,1975-12-30 11:47:46.632931,yes
+1961,Belgium,Female,Propriétaire,Locataire,13,1990-01-12 11:47:46.632931,yes
+1962,Austria,Female,Locataire,Locataire,6,1997-11-30 11:47:46.632931,no
+1963,USA,Female,Locataire,Locataire,1,1969-06-25 11:47:46.632931,yes
+1964,USA,Male,Locataire,Locataire,8,1974-05-20 11:47:46.632931,no
+1965,France,Male,Locataire,Propriétaire,4,1994-06-17 11:47:46.632931,no
+1966,USA,Male,Locataire,Locataire,5,,no
+1967,France,Female,Propriétaire,Propriétaire,9,1992-09-09 11:47:46.632931,yes
+1968,USA,Female,Locataire,Locataire,1,1985-09-29 11:47:46.632931,yes
+1969,China,Female,Locataire,Locataire,7,1967-10-03 11:47:46.632931,no
+1970,USA,Female,Locataire,Locataire,7,1984-03-25 11:47:46.632931,yes
+1971,China,Female,Locataire,Locataire,4,1950-02-19 11:47:46.632931,yes
+1972,Austria,Male,Locataire,Locataire,1,1984-11-16 11:47:46.632931,no
+1973,France,Female,Locataire,Locataire,2,1990-09-10 11:47:46.632931,yes
+1974,USA,,Propriétaire,Propriétaire,9,1981-02-09 11:47:46.632931,yes
+1975,USA,Female,Locataire,Propriétaire,12,1993-06-22 11:47:46.632931,no
+1976,Belgium,Female,Propriétaire,Locataire,4,1978-03-28 11:47:46.632931,yes
+1977,USA,Female,Locataire,Locataire,2,1974-04-07 11:47:46.632931,yes
+1978,France,Female,Locataire,Locataire,9,1995-10-24 11:47:46.632931,yes
+1979,USA,Male,Locataire,Propriétaire,4,1997-07-08 11:47:46.632931,yes
+1980,Belgium,Female,Locataire,Locataire,7,1900-01-01 11:34:00.000000,yes
+1981,Austria,Female,Locataire,Propriétaire,3,1982-07-17 11:47:46.632931,yes
+1982,USA,Female,Locataire,Locataire,3,1990-03-17 11:47:46.632931,yes
+1983,USA,Male,Locataire,Locataire,1,1996-05-03 11:47:46.632931,yes
+1984,USA,Male,Locataire,Locataire,8,1999-05-06 11:47:46.632931,yes
+1985,USA,Female,Locataire,Locataire,9,1982-05-24 11:47:46.632931,no
+1986,China,,Locataire,Propriétaire,3,1975-12-05 11:47:46.632931,no
+1987,Belgium,Female,Locataire,Locataire,1,1989-09-16 11:47:46.632931,yes
+1988,USA,Female,Locataire,Locataire,3,1958-01-12 11:47:46.632931,yes
+1989,Belgium,Male,Locataire,Locataire,3,1987-04-27 11:47:46.632931,no
+1990,USA,Female,Locataire,Locataire,5,1984-06-25 11:47:46.632931,yes
+1991,China,Male,Propriétaire,Locataire,2,1985-09-05 11:47:46.632931,no
+1992,France,Male,Locataire,Locataire,1,1988-04-17 11:47:46.632931,yes
+1993,Belgium,Male,Locataire,Locataire,4,,yes
+1994,China,Female,Locataire,Locataire,12,1978-10-19 11:47:46.632931,no
+1995,Belgium,Female,Propriétaire,Locataire,7,,no
+1996,USA,Female,Locataire,Propriétaire,7,1996-08-29 11:47:46.632931,yes
+1997,USA,Female,Locataire,Locataire,2,1956-11-13 11:47:46.632931,yes
+1998,France,Female,Locataire,Locataire,7,1990-08-06 11:47:46.632931,yes
+1999,China,Female,Propriétaire,Locataire,3,1985-04-06 11:47:46.632931,no
+2000,China,Male,Locataire,Locataire,3,1990-02-09 11:47:46.632931,no
